@@ -52,13 +52,9 @@ RAW_INGESTION_COMPLETE = Asset(f"s3://{S3_BUCKET}/iceberg-warehouse/transactions
 SQL_DIR = Path(__file__).parent / 'sql'
 
 with DAG(
-    dag_id="dag_03_transactions",
-    description="Asset-triggered: quarantine rejected orders → promote to transactions",
+    dag_id="transactions",
     schedule=RAW_INGESTION_COMPLETE,
-    start_date=pendulum.datetime(2024, 1, 1, tz="UTC"),
     max_active_tasks=2,
-    catchup=False,
-    tags=["lakehouse", "transactions", "iceberg", "stage-3"],
 ) as dag:
 
     @task(inlets=[RAW_INGESTION_COMPLETE])
