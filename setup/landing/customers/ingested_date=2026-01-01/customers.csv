@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,email,phone,city,state,zip_code,loyalty_tier,loyalty_points,joined_date,is_active,acquisition_channel,referral_code,marketing_opt_in,account_status_code,last_login_at
+CUST-42f46403-54bf-471e-8a4c-c142abaae57d,Matthew,Pena,patriciawashington@example.net,(896)446-7256,West Kaylaborough,OR,56976,gold,10687,2026-03-26,True,email_campaign,,True,D003,2026-04-02T13:21:13.994463Z
+CUST-5b5deaae-2d62-4a36-a8bd-b79c2de87144,Bruce,Lutz,billystewart@example.net,6658773057,New Debbie,SD,28575,silver,11326,2025-09-29,True,referral,,True,D003,2026-01-30T03:03:26.134266Z
+CUST-b8f379ec-f54f-4458-ab94-e75a5d211c3b,Danielle,Rodriguez,mariahwest@example.org,(477)718-0901x7701,Christinefurt,OR,03118,bronze,7456,2022-04-28,True,email_campaign,,False,A001,2026-02-21T17:17:55.726328Z
+CUST-2f1cfbf1-8396-40c5-9e05-01e80494f517,Tyler,Pope,malvarez@example.net,(988)442-7248,West Brandon,VA,63066,bronze,2285,2022-09-15,True,paid_search,,True,S002,2026-03-19T11:33:20.160418Z
+CUST-4767b9b3-7f66-42cc-8a5b-d66644499f38,Zachary,Cervantes,bcole@example.net,(623)326-3337x64146,South Nathaniel,DC,63011,platinum,10114,2021-04-29,True,paid_search,,False,A001,2026-02-22T16:32:03.178493Z
+CUST-25b70701-38bc-4b6c-a958-1502d71b8077,Jennifer,Torres,webersamuel@example.com,001-283-851-2273x3538,North Becky,NV,38178,bronze,3824,2021-06-27,True,referral,,True,D003,2026-04-09T12:09:47.251714Z
+CUST-247f9690-69ef-4280-af32-1cf95f626b7b,April,Torres,andersontiffany@example.net,001-833-837-8120x57316,New Jimmychester,WY,12823,bronze,5500,2024-03-02,True,paid_search,,True,A001,2026-04-18T06:08:01.579291Z
+CUST-9cc3ce0b-62bb-480b-afcb-31ed091c7d0c,Hannah,Perez,brandon48@example.net,621.955.8789,Port Alexanderstad,VI,43507,silver,6184,2024-10-26,True,social,,True,S002,2026-03-13T20:18:38.011682Z
+CUST-042f663c-a232-4643-896d-5268adf0b95f,Jennifer,James,wspencer@example.com,(210)392-1845,New Dawn,MN,68047,bronze,6752,2024-05-06,True,email_campaign,,False,S002,2026-02-14T01:44:46.428241Z
+CUST-408121fc-8d42-4a71-8ccd-2230d3a75434,Mark,Martinez,allen04@example.com,+1-901-920-3465x8644,Angelatown,KS,38514,bronze,8639,2025-03-07,True,email_campaign,REF-1156,True,A001,2026-04-20T07:31:51.740363Z
+CUST-92f84221-4247-45fa-82d0-5b7ee7159b7d,Brett,Byrd,ohernandez@example.com,361-786-8181,South Kelli,PA,34728,bronze,7363,2025-10-14,True,email_campaign,,True,A001,2026-03-17T02:42:18.803926Z
+CUST-94526da9-52a5-4c98-b59e-8c0a2da6223f,Sarah,Taylor,burchdeanna@example.org,(563)470-5942x8423,South Sharonburgh,ME,81510,gold,8321,2025-02-27,True,email_campaign,REF-7865,False,A001,2026-03-17T00:02:44.865966Z
+CUST-fa1a1fa2-20d9-4bab-a743-49a3ae460d01,Danielle,Edwards,aochoa@example.com,+1-875-760-6990x504,Matthewmouth,VT,86988,bronze,8563,2021-06-05,True,paid_search,,False,A001,2026-04-08T09:54:21.197060Z
+CUST-01e8067b-12a1-41f8-aa2d-cd313e9d3771,Dalton,Newton,xanderson@example.com,(645)772-0742x871,Ianburgh,SC,81046,bronze,3851,2024-03-19,True,email_campaign,REF-0424,False,S002,2026-04-26T10:32:08.367496Z
+CUST-3a19da18-ade5-4f66-8ab7-a1441330cb1e,Rebecca,Allen,monicasawyer@example.net,801-234-5193x1310,North Loganborough,NC,60919,gold,5165,2023-09-04,True,email_campaign,,False,A001,2026-04-03T00:38:02.060899Z
+CUST-d4cd2828-ecc3-4ce6-a8f8-5aefc1f3d35f,Clarence,Terry,sextonlisa@example.org,473-421-9300,West Courtney,KS,80646,bronze,878,2025-02-08,True,social,,True,D003,2026-02-08T05:10:57.781383Z
+CUST-1a238edf-6e78-4139-af67-374ce5aa44aa,Amy,Jensen,jasoncruz@example.net,600.702.3389x00169,Hudsonland,AR,52040,bronze,4083,2024-10-09,True,referral,,True,A001,2026-04-06T07:17:18.684346Z
+CUST-cce16e76-6a3e-4960-b1ab-4ead369ae08f,Laura,Gonzalez,gloriagray@example.net,001-919-297-6442x5568,Nicoleberg,NE,47474,silver,65,2026-01-11,True,email_campaign,,True,A001,2026-04-21T16:28:53.875447Z
+CUST-ff62ef64-ae69-4b62-89fa-2554f5475bfe,Karen,Riley,kreese@example.net,(508)559-0012x6544,Douglasfort,NV,94816,silver,10726,2026-02-16,True,organic,REF-6460,True,S002,2026-02-23T12:35:07.309302Z
+CUST-d0403bb6-f320-4189-abf0-77b4af48071d,Kelli,Fuller,samuel95@example.com,+1-279-532-5871x22482,East Victoria,HI,78919,bronze,1988,2024-02-21,True,paid_search,,True,D003,2026-04-11T19:50:31.374296Z
+CUST-39e46d90-e3d5-415a-91d3-39830ab207b3,Rachael,Molina,michellemullen@example.net,001-594-276-3653x66654,North Stephanieshire,NE,11770,silver,7055,2023-06-26,False,email_campaign,,False,D003,2026-03-05T03:08:41.560347Z
+CUST-007c9a2e-48a1-4ff1-9952-94f06c8acc8c,Amanda,Rodriguez,cynthiaramirez@example.net,779-676-1026x324,North Jason,NE,09656,bronze,925,2021-07-18,True,referral,,True,S002,2026-02-05T09:51:51.778997Z
+CUST-1737eddf-32b9-4f37-88ca-99d06f0458b4,Kimberly,Watson,brenda49@example.net,+1-799-554-0607x857,Alyssaport,NH,65924,gold,8353,2023-09-07,True,social,,True,A001,2026-03-10T16:30:25.267954Z
+CUST-42a66839-caa7-4aad-9e60-15db689dbf71,Mark,Gutierrez,joan71@example.org,001-867-266-9580x866,Morrisberg,UT,98679,gold,7291,2022-05-16,True,organic,REF-1303,True,A001,2026-02-14T03:04:41.179525Z
+CUST-50a08a91-1958-4d31-a28a-f4dc9637abd0,Jennifer,Leonard,erikflynn@example.net,246.872.9496x16197,Lake Stephenborough,PW,82244,bronze,3520,2024-04-14,True,referral,,False,S002,2026-03-25T05:35:09.666363Z
+CUST-5c5bedda-59d7-4f4c-91eb-8d1452f69283,Tony,Wyatt,cheryl23@example.org,001-669-495-9249x6559,New Jayfort,OK,41171,silver,898,2023-09-03,True,paid_search,REF-0087,True,D003,2026-03-18T14:35:03.397927Z
+CUST-d3f5fd06-c7b5-450b-b9d7-02b77561a021,Joseph,Butler,pbryan@example.org,390-804-1259,East Michele,MP,09590,bronze,2116,2026-01-13,True,referral,,True,S002,2026-04-01T06:54:13.352183Z
+CUST-3ef83eb1-c1ff-4ece-9008-18500d763a7e,Mariah,Sullivan,ddecker@example.net,(328)385-7055,Port Erinburgh,MT,05611,bronze,3155,2023-03-28,True,organic,,True,A001,2026-02-10T15:52:36.294523Z
+CUST-61d9c058-076f-4a72-bb74-9608f1387f32,Michael,Smith,stephen35@example.net,(469)347-4984x45181,Ramoschester,KY,75766,silver,6234,2024-12-07,True,organic,,False,S002,2026-03-16T12:37:43.056779Z
+CUST-ce80e00b-7583-4dca-aa7a-847abd74b484,Ernest,Robinson,jessicacowan@example.com,(959)891-9244x89939,Matthewton,KS,61111,bronze,11627,2023-05-02,True,email_campaign,REF-2256,False,A001,2026-04-05T21:58:29.574087Z
+CUST-daf4dd0a-70eb-4bd1-9b5f-905151a9ce65,Cassidy,Clark,shaneschneider@example.net,001-455-366-9895x63680,Brianhaven,MO,99867,silver,5794,2022-01-13,True,email_campaign,,True,A001,2026-04-25T21:16:36.022225Z
+CUST-ec30e6c9-484a-4f5c-a32f-ac4acf44551a,Ian,Zamora,rachel52@example.org,496.728.7061,Powellfurt,NJ,70195,gold,583,2024-03-23,True,paid_search,,False,S002,2026-03-25T00:02:34.053391Z
+CUST-7fc6cb7b-32ca-4f5c-9bcf-d545ff18ebf2,Oscar,Henry,ashley75@example.net,5952613716,Jacquelineview,MH,30835,silver,8803,2022-10-14,True,referral,,True,S002,2026-03-28T01:41:32.434664Z
+CUST-1c6e41e9-ab3b-43a6-8ba4-e5344fe8f11e,Richard,Mcdonald,martinmorgan@example.net,223-983-2872,West Jamiemouth,WY,11982,bronze,363,2025-09-21,True,organic,,True,D003,2026-02-25T19:37:16.142089Z
+CUST-04b730c0-a251-4564-aa67-6212067c3302,Elizabeth,Gilbert,dyu@example.org,287.706.1514x0666,South Ryantown,PW,24622,bronze,4513,2022-12-09,True,referral,,True,A001,2026-04-16T14:27:07.792387Z
+CUST-d0e40147-67d0-4a91-9971-c6db6ecbdf86,Justin,Stark,xyoung@example.org,(778)380-7226,Pricefurt,DE,98873,bronze,7987,2026-03-09,True,organic,,False,A001,2026-03-19T13:27:41.094643Z
+CUST-be75c6f8-3da7-4350-951e-0b446a8fc0d8,Stephanie,Pierce,kmalone@example.com,556.278.1002x2314,Josephville,VI,26327,bronze,11019,2025-08-04,True,organic,REF-9906,False,S002,2026-03-26T13:56:10.653898Z
+CUST-bc1410cb-72da-4419-94b9-7571d74acfbc,Linda,Howard,kellyduran@example.com,001-351-962-6874,Lake Charlottefort,UT,10177,bronze,8764,2024-06-03,False,social,,True,A001,2026-02-12T07:36:56.894422Z
+CUST-701630de-2206-4d61-8ac3-28b0d525910b,Monica,Elliott,ehood@example.org,001-547-281-4738x936,Richardsonshire,RI,96885,gold,6523,2022-01-10,True,organic,,False,A001,2026-04-26T23:18:40.280300Z
+CUST-c0dc42b8-45c0-4689-987f-c7f749f08a75,Dale,Fleming,josephdavis@example.net,614-442-3568,South Chelseaport,MD,93532,bronze,4464,2024-05-30,True,social,,False,D003,2026-03-03T23:56:16.102826Z
+CUST-bcc3bf92-7921-4207-9957-8f7531215ae0,Christina,Fields,jessica48@example.org,(845)539-2290x43073,Toddton,FL,80125,gold,10626,2024-11-20,True,referral,,True,S002,2026-02-08T22:33:33.706261Z
+CUST-cbf02587-65af-4143-ae4a-534daa61060d,Rebecca,Miller,angela47@example.net,639-439-0532,East Mollyhaven,TN,13116,platinum,626,2024-03-19,True,paid_search,REF-1468,True,A001,2026-03-04T21:12:09.050257Z
+CUST-0b411ae0-e86b-4171-b248-592fe32caaee,David,Williams,robertwilson@example.org,001-733-329-7347x233,Taylorborough,WA,38274,platinum,3982,2026-02-18,True,referral,,False,S002,2026-03-01T10:04:39.876604Z
+CUST-20ad68b3-0d0e-49dc-a5b1-27e6de7062f4,Donald,Griffin,jessicagomez@example.net,592.874.1899x049,New Edward,AL,49865,bronze,8062,2021-05-24,False,organic,,True,A001,2026-02-14T05:48:34.867162Z
+CUST-f213b857-1af8-4859-88a4-103af2af6414,Kristin,Brown,fhernandez@example.org,922.985.8146,Joshualand,MD,09451,bronze,1314,2022-09-09,True,email_campaign,,True,A001,2026-03-11T06:31:38.370299Z
+CUST-d782bec3-1c0a-4e05-8a16-7dd87cd78c98,Timothy,Anderson,nsullivan@example.com,8766494362,Lake Ryanton,CA,83590,gold,3864,2025-04-29,True,organic,,False,A001,2026-01-28T14:03:11.466016Z
+CUST-12e73f2b-3acb-43d3-a81f-4c059dc72a6f,Natalie,Matthews,ashley13@example.org,(960)380-9321,South Robert,PR,60469,silver,9383,2022-04-02,True,social,,False,A001,2026-02-23T04:04:57.328809Z
+CUST-7b6d28b3-1844-458e-b892-710f8f042281,David,Burnett,arogers@example.net,+1-489-388-7084x8851,New Jesusshire,IN,98422,bronze,7570,2023-11-03,True,email_campaign,,False,S002,2026-04-19T15:22:57.909177Z
+CUST-0be5881b-87b1-40e8-833d-db56cd95f2e5,Andrew,Allen,jessicafloyd@example.org,798-336-6063,South Vickieland,MT,95803,silver,8188,2022-09-24,True,organic,,True,A001,2026-04-06T09:53:56.620921Z
+CUST-6fc34231-5e1f-4160-a1cf-16bde82a2fcb,Patrick,Cooper,brandonwhite@example.com,(635)608-2592,Hartshire,AK,61296,silver,10909,2022-04-05,True,organic,REF-3240,False,S002,2026-03-21T22:15:50.204872Z
+CUST-a345aef7-62a5-409d-ac0f-c184e9e2fff3,Anthony,Richardson,kelsey80@example.org,001-996-648-3660x791,Debbieborough,AZ,80615,platinum,8198,2024-11-28,True,email_campaign,,True,S002,2026-04-04T22:05:38.829163Z
+CUST-ba58ce19-e122-4227-9548-bb34288c5ad9,Brittany,Kane,ryanwood@example.org,763-253-9465x407,Cooleystad,VA,48918,silver,8345,2023-12-31,True,referral,,True,D003,2026-02-05T06:35:24.444556Z
+CUST-3c071bed-c890-46e0-9156-4a7811bee123,Chelsea,Schroeder,rileynicholas@example.com,(458)919-8838x395,South Jamesburgh,AS,00643,platinum,1591,2023-01-30,True,email_campaign,,False,A001,2026-04-16T22:52:02.727306Z
+CUST-a0079603-04cc-4c45-af45-86df2a68e092,Nicholas,Russo,fhammond@example.org,315.948.0511x069,Port Scott,MP,21525,bronze,331,2024-01-10,True,social,,True,S002,2026-04-03T01:04:54.764412Z
+CUST-b78b2653-b626-4395-8a12-d2fd6ecf4752,Stephanie,Mayo,fgreen@example.org,+1-788-361-8873x4914,Singletonside,MD,95544,bronze,1391,2023-05-12,True,paid_search,,True,A001,2026-03-07T03:10:45.189382Z
+CUST-909680a3-c485-4138-9e6b-e259502757a7,Michael,Thomas,jonesmichelle@example.com,621.741.2030x44093,East Jessicafurt,PR,83712,platinum,5997,2025-12-11,True,social,REF-2166,True,A001,2026-04-21T23:25:43.198976Z
+CUST-20f8890d-c350-4cfb-8dc4-ff361dc09bb7,Jessica,Mckinney,hermandeborah@example.org,912-301-6658,East Melissafurt,DC,62339,bronze,11810,2025-03-25,True,email_campaign,,True,D003,2026-04-04T06:38:57.637090Z
+CUST-45c41232-921d-41fb-8c5d-6507f83720a4,Sara,Coleman,kristasullivan@example.com,662-452-8613x603,South Jennifertown,GU,25103,silver,663,2024-05-22,True,paid_search,,False,A001,2026-03-21T04:38:32.401879Z
+CUST-81c11a48-2b59-4370-bf18-8c0c483f6f23,Marie,Carroll,thompsontimothy@example.org,+1-281-262-1734,South Cynthia,LA,27985,bronze,1983,2024-08-11,True,social,REF-3468,True,S002,2026-03-20T09:59:49.044874Z
+CUST-e5fcf7b9-d767-41aa-a6a4-5b5b8292de20,Erin,Garcia,timothy45@example.net,(635)511-3837x6166,South Kathleen,KY,92309,bronze,2531,2021-09-19,True,organic,,True,D003,2026-03-06T23:15:53.611006Z
+CUST-6b0709a5-c941-405b-acbb-a65ba7e51d17,Shane,Johnson,brownpamela@example.net,001-885-425-0499x953,West Lauren,NM,52629,bronze,10995,2026-01-15,True,social,REF-9765,True,S002,2026-02-22T11:20:21.159966Z
+CUST-bd46604e-447a-414d-8dff-94189e804112,Larry,Mullins,imoreno@example.net,001-669-566-4277x4395,Marshborough,KY,20026,gold,9274,2023-04-29,True,social,REF-5164,False,A001,2026-02-14T13:56:12.342926Z
+CUST-810e84de-7896-4dad-8ff9-3c5fde8effe0,Charles,Holmes,rcooper@example.com,395.892.1574x8315,Clarencemouth,ND,16843,platinum,11198,2021-08-01,True,email_campaign,,False,A001,2026-04-08T21:45:27.445248Z
+CUST-aa0ef611-60cc-4075-ab1f-206dbbbe34e1,Rebecca,Davis,zhangmark@example.com,6678409898,Matthewfort,MP,85704,silver,785,2025-10-01,True,organic,REF-1651,True,S002,2026-02-25T10:17:21.004593Z
+CUST-7a317ec3-7d7c-45cf-9465-acb25e7839ba,Corey,Camacho,jacksonchristina@example.net,552-207-9293,Lauraton,NM,96534,silver,4995,2022-04-27,True,referral,REF-2375,False,A001,2026-04-09T13:55:54.642998Z
+CUST-337ad2f7-1a0f-4bb8-b336-a29006504d17,Michael,Steele,stephen84@example.com,001-696-753-5427x92112,Millerborough,AK,80095,bronze,5302,2024-06-22,True,email_campaign,,False,A001,2026-02-17T09:54:15.432844Z
+CUST-21ec0cf5-b928-4f9a-b32a-e3061ebd2070,Teresa,Rich,jadetate@example.net,6667874255,East Curtiston,CO,16242,silver,1606,2021-08-16,True,email_campaign,REF-6683,True,S002,2026-02-17T23:42:37.686279Z
+CUST-61e5c06b-9463-43c0-bff0-6fc22cbfda5d,Edward,Sanchez,shannon05@example.net,(820)840-2493x391,New Dylan,NH,65021,bronze,8089,2022-11-18,True,organic,,True,A001,2026-03-20T15:28:02.204433Z
+CUST-ef53de0d-637b-47e4-94b5-15cfdf921133,Thomas,Brown,rioskristina@example.net,(359)258-4228x8880,Lake Jeanetteview,AK,19090,bronze,3219,2025-04-10,True,social,REF-9836,True,S002,2026-03-09T21:30:06.268415Z
+CUST-733909e2-b3a8-4e67-b7c8-cc5abc8dec1a,William,Fields,ylambert@example.net,920-240-2190x91119,Howardfort,OR,82634,gold,5739,2026-03-22,True,organic,,True,A001,2026-02-06T18:19:08.149138Z
+CUST-29d4a51d-423c-4dd4-9685-86538ca123ac,Heidi,Johnson,sherrynguyen@example.org,(304)855-5419x154,Brianchester,RI,81310,bronze,1930,2022-11-11,True,paid_search,,True,A001,2026-02-02T06:28:35.124323Z
+CUST-3b387737-db19-4e6a-8f38-d6269fa58d1e,Kathryn,Smith,nicholslaura@example.org,633-250-0524x42946,Suttonside,OK,53299,platinum,2699,2022-04-04,True,organic,,True,A001,2026-02-17T00:42:33.355514Z
+CUST-07e0b632-a89b-4aa4-96ad-c0e7e1ae45aa,Sharon,Thomas,hawkinsaustin@example.net,330.879.2574,Christianborough,ID,62578,silver,2849,2023-02-24,True,organic,REF-6192,False,A001,2026-03-26T20:49:47.546552Z
+CUST-5a169fb2-47b3-415a-9d8c-4f5d044d3af7,Shannon,Meyer,andrea93@example.org,502-795-9453,Port Erinmouth,HI,62732,bronze,6667,2023-02-02,True,referral,,True,A001,2026-02-14T06:19:34.933029Z
+CUST-4abb6eae-e00d-4186-8eeb-9237fb89182b,Debra,Vazquez,zrowe@example.org,001-996-779-0189x566,Stewartbury,WY,80709,silver,11765,2024-11-17,True,paid_search,,True,D003,2026-02-21T22:13:19.461406Z
+CUST-e9ecc5d5-762d-448f-80d7-83f82b69248e,Randy,Cole,feliciaprice@example.org,001-741-748-3014x7923,Lake Brandon,IL,05468,silver,6632,2023-02-27,True,paid_search,,False,A001,2026-02-18T00:18:01.582408Z
+CUST-82693db2-20f6-43d0-84df-1f6a4b2fbd78,Christopher,Tucker,christina18@example.com,+1-839-578-4381,West Casey,NH,64608,bronze,11629,2025-02-27,True,referral,,True,A001,2026-02-20T21:25:12.451503Z
+CUST-3030251b-c599-4b0c-802c-f12f73cdf7e6,Matthew,Burton,arthur40@example.net,001-238-824-0835x596,South Jeffreyview,DE,34058,bronze,6732,2025-06-01,True,social,,True,S002,2026-03-24T00:02:31.553918Z
+CUST-358657d8-0d1f-4b8b-9abd-61b818d17a0a,Meagan,Simpson,williamrivera@example.com,390.735.9267,Paulmouth,GA,19113,bronze,2531,2022-04-29,True,paid_search,,True,A001,2026-04-04T10:36:57.550648Z
+CUST-8b09cd3a-12ac-4d2a-b437-9dd53c798be1,Amanda,Garrett,hcastaneda@example.net,8252417276,Crystalport,TX,55296,bronze,6886,2023-11-03,True,social,REF-3661,True,S002,2026-04-27T03:22:40.046912Z
+CUST-1966d832-42d6-4c59-83a2-2704fa9f3551,Elizabeth,Hall,yhorn@example.org,854-420-8646,Port Mariafurt,HI,77094,bronze,9798,2023-01-24,True,organic,,True,A001,2026-04-23T19:57:06.624756Z
+CUST-be49bad4-9301-4531-8779-abd09699331f,Gabriel,Roberts,kellyjohn@example.com,(771)506-3359,South Cynthiabury,DC,01100,bronze,2102,2024-10-30,True,paid_search,,True,A001,2026-04-17T11:49:11.630921Z
+CUST-f79fdfc2-9444-4c88-ac6f-b5cf38cfbf36,Jennifer,Moody,phodge@example.org,001-385-283-1907x872,Port Jonathanshire,WV,91802,silver,431,2024-03-23,False,organic,,False,A001,2026-03-26T09:40:38.944077Z
+CUST-4ddc97e5-ea50-465f-b27e-e485613cf3c2,Matthew,Collins,wilsonmeredith@example.com,001-368-919-1502x8473,Selenaport,FM,26100,gold,3643,2023-12-25,True,organic,,False,A001,2026-04-13T13:39:38.463710Z
+CUST-dbea9e2c-c32a-42af-acb0-27de894b0b31,Wesley,Gray,mbrown@example.net,844-368-4479x566,Jayland,SC,00747,bronze,5941,2022-04-29,True,referral,REF-9306,True,A001,2026-03-14T23:08:58.176240Z
+CUST-2d0b07a2-42d6-404c-bab6-1158981723c5,Andrea,Harris,vancecody@example.org,(616)946-8074,New Nicholas,MA,21097,silver,6790,2023-10-09,True,email_campaign,,True,A001,2026-03-08T05:19:17.244121Z
+CUST-4e0a5f7a-1a3c-41ca-8310-be4ecf0b3678,Jason,Rodriguez,brianwatkins@example.com,(998)571-5251,North Amber,GU,51835,bronze,809,2022-08-26,True,email_campaign,,True,A001,2026-01-29T07:42:11.981242Z
+CUST-1e21515c-5325-4f2d-abcc-dcfc27418693,Angela,Matthews,holtabigail@example.com,001-389-254-8883x515,Port Amanda,RI,64144,bronze,8070,2022-01-01,True,referral,REF-2741,True,A001,2026-03-15T21:45:57.227955Z
+CUST-66691299-e778-48a3-a752-2b6ba9f59376,Arthur,Bridges,nicholsjennifer@example.org,324.445.1670x973,Mclaughlinbury,AZ,58347,silver,5742,2022-08-28,True,paid_search,,False,A001,2026-02-06T05:47:38.633895Z
+CUST-12ec7c4d-cbb9-4648-8361-c1544976b266,William,Shaffer,patrick76@example.com,(927)429-6088,Jonesbury,NE,66476,bronze,5144,2026-02-07,True,social,,True,S002,2026-03-28T06:07:14.145414Z
+CUST-1ecb6ede-e5bb-4472-8326-d593fd4878dd,Luke,Brown,valenzuelatoni@example.org,323-974-1516,Lake Amyborough,MI,51763,bronze,11088,2026-01-19,True,organic,,False,D003,2026-02-02T21:54:55.129994Z
+CUST-db8af8e7-ab4a-491a-b3be-d57467c8bf9e,Erin,Williams,tsmith@example.com,314-767-0442x287,Blakefort,WA,03917,platinum,2873,2024-11-28,True,organic,,True,D003,2026-03-09T17:17:17.702397Z
+CUST-20cfe1ab-513d-44f7-8e3c-66c86e119395,Jennifer,Miller,fieldsstephen@example.net,(461)504-0264x0300,New Valeriefurt,NV,64513,platinum,6105,2023-02-10,True,email_campaign,,True,S002,2026-02-01T03:53:54.387423Z
+CUST-65bdfb5e-6511-4e3f-83a3-d0a67a9b73dd,Daniel,King,etaylor@example.com,(981)689-2684,North Rachelmouth,GU,80067,bronze,11562,2021-07-18,True,social,REF-3239,False,A001,2026-02-18T18:48:39.615695Z
+CUST-40a1adb9-d91f-4adc-9585-9416e6da12e2,Ryan,Ruiz,ytorres@example.net,+1-556-831-6085x04981,Singhview,CA,95511,silver,5019,2024-01-01,True,organic,,True,A001,2026-03-16T22:55:03.103682Z
+CUST-34b854a5-5461-4fda-ba60-7dd669d165e7,John,Travis,jjohnson@example.com,538-371-5163,Davishaven,RI,50185,platinum,10146,2022-05-23,True,email_campaign,,False,A001,2026-04-01T02:59:41.570802Z
+CUST-9ec9b3cf-12a6-451c-ab37-6d8be25e8fe7,Melanie,Beard,donaldsteele@example.org,+1-934-364-4196x8587,Leeview,KS,81274,bronze,1194,2025-04-18,True,organic,REF-0797,True,A001,2026-04-23T07:52:05.864829Z
+CUST-0a2e51d5-f1e6-476d-94a3-e628a2e2b827,Travis,Cowan,ihawkins@example.com,(592)712-7338x54658,North Amymouth,MS,41801,bronze,6342,2024-11-21,False,social,,False,A001,2026-02-14T03:04:03.733587Z
+CUST-eeb635f3-bb03-4744-8c49-9ee269a32aaf,Dawn,Bennett,nicholas32@example.net,973-539-7505,Leonside,NH,20733,bronze,2452,2021-11-03,True,paid_search,,True,A001,2026-03-03T12:36:52.038562Z
+CUST-2c050803-07ce-48b3-a0fe-18210629124c,Dawn,Ellis,amandajohnson@example.net,(470)900-1719x190,West Chelsea,OR,55961,gold,4437,2025-10-05,True,email_campaign,,True,A001,2026-03-18T10:55:39.979574Z
+CUST-acc09c1f-418d-4320-a301-eade564f4a57,Brandy,Flowers,cwilson@example.com,(300)720-2126,Johnsonmouth,SC,42701,gold,10109,2022-10-15,True,referral,,True,A001,2026-03-21T10:50:55.992884Z
+CUST-12cc968d-bf12-41cc-a2a9-4aae461d8b42,John,Blake,hickswilliam@example.net,796-465-7884x8266,Jesusbury,GA,60765,bronze,4213,2025-07-02,True,social,,True,D003,2026-04-03T15:19:48.905936Z
+CUST-64698e60-e86e-4ed9-8c75-629d3bba0924,Monica,Stone,mark69@example.net,(360)724-6878x02108,West Lauraville,CT,41965,bronze,9213,2022-12-17,False,referral,,True,S002,2026-02-24T11:42:28.844540Z
+CUST-1092d36d-1468-4936-9b59-0ed940314b46,Elizabeth,Mckay,daniellemaxwell@example.org,001-828-564-6929,Jonesfort,WY,17339,silver,3553,2023-12-19,True,email_campaign,,True,S002,2026-03-18T11:33:43.608848Z
+CUST-53609367-ebc1-400d-8c0d-f5b4e2ab6f3d,Sarah,Colon,shaunmassey@example.net,629-995-4350,Campbellmouth,VA,16769,silver,9072,2024-08-04,True,referral,,True,S002,2026-03-29T18:29:40.200916Z
+CUST-dfadabcf-0848-4b0a-9fc7-650521599b37,Krystal,Mejia,kjones@example.com,239.761.1990x1557,North Gregory,KS,84461,bronze,229,2022-06-13,True,organic,,False,D003,2026-02-15T04:17:54.217400Z
+CUST-89945222-fa6d-487c-a6cb-4d33f7140edc,Kathleen,Maldonado,bauerseth@example.com,+1-647-720-8624x0726,Margaretchester,CO,71947,bronze,11573,2025-10-11,True,paid_search,,True,A001,2026-03-20T09:04:11.849207Z
+CUST-23915eca-9369-4af7-9afb-e7e518b4813f,Carolyn,Hayes,jacquelinecrawford@example.com,(341)754-5708x0249,Shannonshire,CT,28660,silver,1892,2024-10-16,True,email_campaign,,True,A001,2026-02-19T16:31:42.618359Z
+CUST-19ac4799-6109-4ad8-853d-623662a5e917,Joseph,Booth,catherinegarza@example.net,001-382-997-1995x5218,South Jennifer,WA,01162,bronze,8538,2022-12-20,True,social,,False,A001,2026-03-31T15:06:45.723480Z
+CUST-1916d580-70c0-46a3-94eb-36799256017d,Richard,Thompson,adamraymond@example.net,001-250-985-6717x637,Lopezfort,WA,08687,bronze,976,2022-07-24,True,paid_search,REF-9414,True,A001,2026-03-23T04:58:31.726773Z
+CUST-a23e09a8-e01e-41bf-8d6d-e667633e36ce,Anthony,Farmer,davisronald@example.net,217-207-4921x8602,Michaelfort,CT,24283,bronze,2079,2021-08-28,True,organic,,False,A001,2026-04-03T17:53:30.695326Z
+CUST-307ac6f5-114e-4488-85cf-d13dfd32fea2,Jessica,Mata,thanson@example.net,636.353.4644x882,Port Morgan,OR,34573,bronze,7680,2023-09-22,True,paid_search,REF-0747,False,A001,2026-02-08T06:17:48.017296Z
+CUST-dabf8e8a-0e6f-4085-986e-846a95778617,Randy,Herrera,gavin28@example.org,572-795-9132x45603,Vanessaland,AL,07547,gold,6455,2023-12-31,True,social,,True,A001,2026-02-26T15:44:56.304187Z
+CUST-f5af20f7-6ddd-4456-9623-db3cf06659ef,Luis,Houston,wallacejames@example.org,281-941-1566x7659,East Aaronland,CO,16035,silver,9738,2023-04-08,True,social,,True,S002,2026-03-26T15:52:17.478975Z
+CUST-294115d4-20bb-4f40-8835-2c385a7ddf66,Matthew,Olson,mwells@example.org,485.230.1634,Barnettmouth,NV,23455,silver,11765,2022-12-01,True,organic,,True,A001,2026-03-15T09:26:13.662020Z
+CUST-8bdd3e04-13d2-487b-95ba-6d6502a2b7aa,Tammy,Williams,andersonjohnny@example.com,5895801654,East Kimberly,ID,71181,silver,534,2024-04-20,True,organic,REF-8550,True,S002,2026-02-28T17:00:05.365712Z
+CUST-7b38c1bc-cea0-4bfb-9deb-fcddf82ed7eb,Krista,Williams,robertsondeborah@example.org,001-350-629-8001x8427,North Davidland,SC,95468,gold,3455,2025-07-02,False,paid_search,,True,S002,2026-03-20T07:07:16.405593Z
+CUST-d736e6a8-7235-43fc-930d-707a7ef2bc52,Chad,Smith,derrickgentry@example.com,+1-693-812-2585x223,New Laurahaven,RI,17992,bronze,5862,2025-10-18,True,referral,,False,A001,2026-04-17T19:01:55.787648Z
+CUST-bbd2c2bf-f9ef-4c11-ab70-1cd9933eb5d7,Jacob,Allen,kcooper@example.com,419-338-5701x3721,South Richardborough,IA,59822,bronze,2121,2022-04-03,True,social,,True,A001,2026-03-26T23:18:47.474786Z
+CUST-775cab99-251e-4564-9a02-f34b9cfb859f,Todd,Smith,tomwilliams@example.com,252-280-0322,Lake Diana,TN,91953,gold,1016,2025-09-06,True,email_campaign,,True,A001,2026-03-21T10:04:55.631573Z
+CUST-3789d210-1f08-4f33-84f9-05055ff6295f,Kyle,Phillips,wcobb@example.com,+1-394-555-0136,Lake Dennis,GU,33490,bronze,11999,2025-04-05,True,email_campaign,REF-0852,True,A001,2026-04-25T14:51:39.180505Z
+CUST-a0bb8fe7-7ddc-44b5-a636-97bf41842894,Jennifer,Grant,kknox@example.com,938.639.6274x07232,New Jayhaven,AZ,12667,gold,3157,2025-02-03,True,referral,,True,A001,2026-04-27T08:55:52.274117Z
+CUST-4cd4c050-837b-4925-9c6f-b2ff75d55caf,Bonnie,Mckinney,adrianacase@example.org,981-613-7065x51451,Snyderton,VT,96982,gold,8036,2023-02-25,True,social,,True,A001,2026-04-08T04:25:28.637747Z
+CUST-401ca170-98ff-474d-8f91-ffa981ce5e49,Samantha,Clark,schaeferbrandon@example.net,(323)866-1304,Port Susanmouth,NM,17849,bronze,3334,2024-10-26,True,organic,,True,A001,2026-02-26T03:44:06.966119Z
+CUST-71dbb07e-6db2-4d06-b8e0-f0b164822742,Emily,Howe,brandonjackson@example.com,551-886-7368x848,East Lindsay,WA,22210,bronze,1594,2024-03-21,True,email_campaign,,False,A001,2026-03-13T23:02:37.100022Z
+CUST-4d5ce5a8-d985-4661-ae4f-5a854217d601,Jeremy,Lewis,felicia58@example.com,6316947645,New Kristinton,DC,98396,bronze,8921,2023-06-05,False,organic,,True,D003,2026-02-28T16:18:58.923944Z
+CUST-1db388df-c6e5-46de-9678-e6d3875a2e54,Samuel,Brown,macdonalddeborah@example.org,001-838-754-6428x3593,Brownfort,WV,65894,silver,7056,2021-11-09,True,referral,REF-3661,False,D003,2026-02-16T05:23:40.438651Z
+CUST-009d8dbf-0827-4516-8f3b-41fcaeabe6c6,Dawn,Gibson,ruiznicholas@example.com,001-914-834-5685x615,South Natalie,MT,77883,silver,9081,2024-09-14,True,referral,,False,D003,2026-02-11T11:57:37.621463Z
+CUST-e5f3acfd-b0d0-4e93-8632-f2b2bf715472,Sandra,Douglas,aliceboone@example.net,424.330.6672,Arielbury,AS,30144,silver,9197,2026-01-01,True,social,,True,S002,2026-02-03T21:12:54.259304Z
+CUST-c9f4c360-c622-4bac-baf2-1957241ac4d8,Ryan,Rodriguez,ltorres@example.net,+1-316-961-2494x6394,Lake Luisburgh,NE,28221,gold,2275,2025-05-09,True,organic,REF-2249,True,A001,2026-04-06T16:45:11.637243Z
+CUST-56511fac-77ef-4415-8059-bc81cded5178,Stephanie,Clark,benjamin57@example.com,+1-345-961-3552x788,Barkermouth,WV,09457,platinum,10044,2025-01-31,True,referral,,True,A001,2026-02-05T15:11:39.734045Z
+CUST-93271ed6-9df0-4873-8810-7fc42b46c7e3,Ralph,Archer,kimberly45@example.com,774.572.0489,Port Cory,NC,15762,silver,11166,2024-08-18,True,social,,True,A001,2026-04-15T17:47:11.882514Z
+CUST-ec175f82-ee3d-4053-8aaa-3ae157749a71,Susan,Cox,hollyramos@example.org,001-600-769-8190,New Joseph,NM,12661,bronze,4380,2022-10-03,True,email_campaign,,False,A001,2026-04-12T18:22:33.108196Z
+CUST-c4915a30-f624-411e-8210-d6f7137accca,Sarah,Rodriguez,pstrickland@example.net,+1-219-560-2721x7711,West Cynthia,PA,40799,silver,4298,2025-04-04,True,social,,True,A001,2026-02-28T16:21:31.852094Z
+CUST-416541f3-8272-4c52-a0f9-557425ec9b2e,Deborah,Williams,crivera@example.com,954.355.6823,Port Daniellefurt,GU,57335,gold,9053,2023-07-19,True,email_campaign,REF-8616,False,A001,2026-02-23T11:40:19.879223Z
+CUST-67a94b04-fef4-43d3-98cf-18f0a670faf2,Veronica,Cunningham,juliacallahan@example.net,7343941341,New Angelafurt,UT,55597,bronze,4664,2022-04-23,True,paid_search,,True,A001,2026-03-01T23:02:33.317882Z
+CUST-c4fff0de-25ef-491d-a3f0-9d730a74c77a,Brittany,Johnson,kristinathomas@example.net,588.305.2611,Port Jerome,GU,48584,bronze,11816,2021-10-07,True,social,REF-1662,True,A001,2026-04-13T12:47:22.751609Z
+CUST-78a176d3-9d03-41c3-a5c7-228ac31a2fd4,Donna,Cox,singletonbruce@example.com,265.392.4172x60323,Lake Kimberly,OR,36058,silver,56,2023-12-23,True,referral,,False,A001,2026-04-03T22:44:22.499676Z
+CUST-388b160d-9048-4541-b5cd-317bb62ccbb3,Paul,Vaughn,grahamryan@example.net,+1-771-332-5402x3407,Audreyport,AZ,15251,bronze,9792,2024-04-29,True,referral,,False,D003,2026-04-09T18:44:13.243936Z
+CUST-e09289f7-e6bb-48c2-9e09-13fd1e666109,Pam,Miller,hallmark@example.org,(704)706-3979x6146,Josephbury,NV,01343,bronze,4531,2024-12-09,True,paid_search,,False,A001,2026-02-19T08:53:48.188058Z
+CUST-aa71742a-def3-44b1-a192-af9d5ce773ba,Todd,Leblanc,jesse36@example.com,001-869-665-8201x6265,Brittanyhaven,ID,05423,gold,1564,2025-01-28,True,email_campaign,,True,D003,2026-02-13T06:32:36.467138Z
+CUST-54c3416f-e94b-4105-a3a4-301e19250f90,Julie,Johnson,davisjulia@example.net,704-819-9215,North Travishaven,MS,12655,gold,8255,2024-09-01,True,social,REF-0112,True,D003,2026-02-06T23:03:04.121163Z
+CUST-a243912f-78c2-45ba-873e-5d4909e29b82,Carol,Galloway,michellefoster@example.com,5559304600,West Edwinport,KS,82945,bronze,11347,2024-10-08,True,organic,,True,A001,2026-02-10T12:53:58.330782Z
+CUST-b08b673a-27e2-4063-8923-e68f2c911ab0,Jacob,Chandler,shannon43@example.org,885-832-7134,Welchbury,CA,07858,gold,3262,2023-08-17,True,paid_search,,True,D003,2026-04-20T17:07:49.841968Z
+CUST-86022858-e058-45ff-b2b6-ee8c13a579e1,Jacob,Romero,mreed@example.com,(398)482-4382x497,Danielland,FL,49552,silver,355,2024-07-04,False,organic,,True,S002,2026-03-14T20:45:18.303425Z
+CUST-ae0af230-1665-45bd-b4b9-3900e32f9fca,Kristin,Montgomery,vgoodman@example.net,001-520-702-9951x93006,Hernandezmouth,IL,01719,bronze,11493,2021-07-23,True,paid_search,,False,S002,2026-02-18T17:33:05.680902Z
+CUST-425de880-ded7-42c6-8e62-9c8248b0cfc8,Justin,Morgan,bowmannathan@example.org,417-940-8050x8796,Krystalshire,ME,98761,bronze,10859,2025-12-23,True,paid_search,REF-2487,False,A001,2026-03-28T12:24:00.380475Z
+CUST-636eb7cb-a362-4f5e-ad77-06bc5c4e2a40,Jennifer,Galloway,james02@example.net,+1-711-531-4438x427,South Arthurchester,NM,92587,silver,3710,2023-12-01,False,paid_search,REF-8538,True,A001,2026-04-27T14:14:25.327649Z
+CUST-4b9d3282-323f-4534-9297-1b980f4d1b8c,Gordon,Welch,smithanthony@example.org,+1-917-368-1904x147,Lake Joseph,NY,87273,silver,5389,2023-08-19,True,organic,,False,D003,2026-03-31T02:09:41.224830Z
+CUST-d0e0ad1f-5424-410f-8fff-019014446529,Matthew,Patel,jamesrasmussen@example.net,(696)855-1315x96299,Pattersonton,NV,93969,silver,7168,2024-02-24,True,social,,True,A001,2026-02-10T07:36:43.175028Z
+CUST-a64e0578-b7ff-4810-88f4-d903b4d5d26d,Sarah,Phillips,jowen@example.org,216-933-7985,Johnsonmouth,AL,77667,gold,8645,2023-07-01,True,email_campaign,,False,A001,2026-03-22T03:04:47.097968Z
+CUST-d7d33117-be52-40e0-aa2a-fe0e7787da1b,Joshua,Clark,stacy29@example.net,(352)558-7307,South Scottport,PA,60824,bronze,8140,2021-07-11,True,paid_search,,True,A001,2026-03-14T17:45:45.893708Z
+CUST-7cc29c9d-563d-4e63-b62b-e1de1e48ab14,Joseph,Shaw,dillonbrown@example.org,+1-626-303-4452x156,North Patrick,VA,70498,silver,8170,2026-02-05,True,social,REF-3820,False,A001,2026-04-09T20:31:16.411058Z
+CUST-9b1d9ce2-abf6-49e0-8e58-966d315809bc,Roberto,Sandoval,pruittsandra@example.net,229.931.6589,North Jonathanbury,KS,17015,gold,4759,2022-12-08,True,organic,,False,D003,2026-02-06T01:17:13.377336Z
+CUST-1796002b-160f-4052-b68d-8ecbe216db7c,Ryan,Braun,wilkinsonelizabeth@example.org,001-483-372-0299x7813,South Sabrina,MS,34309,silver,6666,2022-09-14,True,social,,False,A001,2026-03-03T07:28:49.257029Z
+CUST-b1617712-5972-4dea-a5bc-de8d9954e36f,Amy,French,sophianorris@example.net,001-228-809-4065x97147,Robertfurt,IL,48701,bronze,2159,2021-10-16,True,organic,REF-3645,False,A001,2026-03-29T18:36:36.350169Z
+CUST-511eaf97-308f-4bc1-8ac0-b55d4e43db07,Daniel,Blake,dmcneil@example.com,6114117385,Williamside,WI,40985,bronze,6388,2022-03-15,True,email_campaign,,False,S002,2026-03-10T01:28:34.117887Z
+CUST-7bc217f7-a0b8-4497-bb50-7982ca304721,Kathy,Elliott,daniel42@example.net,+1-608-498-6938x5786,East Richard,MD,40713,bronze,4023,2022-04-18,True,social,,True,A001,2026-03-29T00:26:54.744068Z
+CUST-ab115bf2-c43b-43d3-bbbb-b123cc6c31a5,Joshua,Schmidt,cgomez@example.net,001-890-625-9748,Taylorton,GU,48878,bronze,7812,2023-06-16,True,referral,,False,A001,2026-04-24T02:23:46.505032Z
+CUST-90878239-1cfb-474f-bd55-be08db3173eb,Ryan,White,cobbdavid@example.org,001-442-202-3122x9717,West Robert,AZ,88423,bronze,4237,2023-03-02,False,email_campaign,,True,A001,2026-01-31T22:17:23.621597Z
+CUST-c195be69-f639-45ff-b281-2fb7ebec9b6b,Jacob,Yoder,youngtami@example.org,+1-845-228-8948x3847,Taylorton,MS,87778,silver,8234,2025-12-30,True,email_campaign,,True,S002,2026-04-02T12:19:10.265969Z
+CUST-fa007df0-8ca2-461c-988d-cc79baf7be77,Richard,Waters,josephjones@example.com,+1-941-331-4590x0974,Waltonside,HI,34080,bronze,3055,2022-06-08,True,referral,,True,A001,2026-03-13T11:34:30.135805Z
+CUST-47fdc19f-b69d-4715-a6b4-631c77f83ecc,Alexandria,Smith,kennethbernard@example.net,(630)222-8941,South Chelseashire,OR,00685,bronze,3555,2021-09-02,True,referral,,True,A001,2026-03-13T22:08:09.464324Z
+CUST-2357fbd1-b12c-45db-af72-95152b42bb81,Morgan,Williams,joseph53@example.org,(422)495-6816x295,Hopkinschester,MP,22703,silver,8938,2021-07-19,True,paid_search,,True,D003,2026-02-16T19:18:01.572187Z
+CUST-cb5be5cd-c6a7-4491-ada3-8e2735819403,Sherry,Lloyd,stokesbrian@example.com,(790)217-4968,West Emilyside,AR,02713,silver,8334,2026-03-16,True,referral,REF-6240,True,D003,2026-02-10T23:30:05.130217Z
+CUST-aa32864c-ae1e-4456-8be3-a18aac57401e,Jennifer,Carson,jennifer87@example.org,302-494-0711,East Angela,ND,25425,bronze,5668,2023-01-21,True,paid_search,,True,S002,2026-04-16T20:36:37.081076Z
+CUST-cdb1970a-785f-418e-ae10-e6861a7bee60,Patricia,Collins,richard07@example.net,(576)577-3731,East Michaelchester,AS,71682,bronze,8864,2022-05-05,True,paid_search,,False,A001,2026-02-25T11:45:57.138390Z
+CUST-bf9a19b2-fc67-4135-8dd4-70b990ee1f23,Anthony,Smith,margaret06@example.com,(379)366-2546x7530,South Jessica,NC,15356,silver,11276,2024-06-03,True,referral,,False,D003,2026-03-25T03:29:06.346758Z
+CUST-cc062543-3656-42c4-8c25-44fd4f972c77,Clifford,Holden,charlesbrown@example.org,(639)413-2313,Hoopershire,MP,71326,silver,4148,2024-10-27,True,email_campaign,,True,D003,2026-02-09T13:49:07.133630Z
+CUST-18056057-5a34-4180-9686-d19fbe10454e,Tyler,Holmes,kathrynbell@example.com,641.690.7509,West Cheryl,ID,03599,bronze,11234,2021-05-27,True,organic,,False,S002,2026-03-03T23:31:48.260795Z
+CUST-e0e42a9f-bee6-489f-98d1-c737cdb78865,Megan,Lopez,walter63@example.org,(521)999-6478,Millerville,UT,82048,silver,1701,2026-01-30,False,paid_search,,False,S002,2026-03-14T21:46:53.814682Z
+CUST-3974728b-ac1d-480e-beab-a1342e5aa3ac,Regina,Moreno,zhughes@example.com,708-444-1274x7744,Taylorhaven,NC,53691,gold,1453,2025-01-29,True,referral,,True,A001,2026-02-08T17:48:36.081770Z
+CUST-b09bde85-eee6-467c-9caa-a7f066c2bfe0,Mary,Wells,jessica08@example.org,+1-283-947-4520x3747,South Willie,FL,23423,bronze,9131,2025-03-20,True,social,,True,S002,2026-02-05T02:54:12.016941Z
+CUST-5d5502fb-1990-4e1a-b908-b9f7b7fd9e7d,Timothy,Harding,zvillanueva@example.net,954-953-1579x7327,North Sherryberg,NV,58791,bronze,10440,2024-11-07,True,referral,REF-7601,False,A001,2026-03-12T03:51:38.835382Z
+CUST-66d18438-a242-4950-803c-822c3f7fe3f8,Brittany,Morrow,valenciamary@example.org,865-833-6017,East Michaeltown,VI,47204,gold,2181,2026-02-23,True,email_campaign,,True,D003,2026-04-19T23:21:41.451299Z
+CUST-c62727de-27cc-44c4-a2e3-9d1865a18bb9,Ricky,Henry,tleblanc@example.com,875-872-2176x61104,Shannonville,LA,58165,bronze,6025,2021-10-17,True,paid_search,,True,A001,2026-04-08T23:41:25.003077Z
+CUST-fb17bdc7-cf50-44c5-85dd-5989e80c6d04,Barbara,Maxwell,lcunningham@example.org,238-585-3879x282,Martinshire,DC,01167,bronze,3591,2024-10-25,True,paid_search,,True,A001,2026-03-17T04:54:03.226901Z
+CUST-030de420-51d0-428a-ac1f-9fb6ab060a18,William,Butler,valerie38@example.org,001-740-200-2217x447,New Tinaland,TN,24582,silver,10180,2022-05-24,False,organic,,False,D003,2026-04-26T06:49:54.778279Z
+CUST-40b1047f-d68d-498d-b6ce-4a63ad351f7e,Luis,Christian,zwalker@example.com,437.865.8304x257,Aprilport,MP,33723,bronze,6250,2022-03-30,True,organic,,True,A001,2026-03-16T18:35:16.999633Z
+CUST-1625bc7c-e330-49ca-bac3-cc68a48be31e,Michael,Martinez,lalvarez@example.com,+1-677-316-7498x1232,South Stacy,CA,84155,silver,3338,2025-08-11,True,social,,False,D003,2026-02-05T01:46:45.559660Z
+CUST-27002521-339e-4332-a74f-488b5ac3de97,John,Harris,davidflores@example.com,(259)752-6695x3762,Mckayberg,HI,53797,bronze,9277,2025-05-08,True,paid_search,,True,A001,2026-03-21T11:34:34.332891Z
+CUST-5890c5d5-0865-49cc-9c77-090c04639cc7,Frank,Prince,bkelley@example.com,001-663-397-5017x146,Jimmyside,MT,04097,bronze,6856,2021-09-18,True,social,,True,S002,2026-04-19T06:02:19.838997Z
+CUST-99a591b7-78d4-42f0-84be-16e99e3c8c88,Chase,Austin,mperkins@example.net,499.996.0617x23523,South Travis,NE,90712,platinum,2377,2024-11-20,True,social,,True,A001,2026-04-18T01:33:42.291263Z
+CUST-f7ac17b1-de3f-42cb-87fd-88741ad6fd7e,Dustin,Hopkins,gonzalezlori@example.net,+1-383-392-5725x05688,Perezview,TN,40425,silver,528,2025-09-27,True,social,,True,A001,2026-04-04T16:36:02.337688Z
+CUST-f9f256ee-1a98-4f4a-bff2-2d98c87d0acd,Alexander,Clark,danielwhite@example.org,9087768422,New Kellybury,GA,34115,bronze,11684,2023-03-29,True,referral,,False,A001,2026-02-22T05:20:22.220758Z
+CUST-586e4a32-6489-4770-8446-8fbf58b283d6,David,Garcia,crobinson@example.net,001-674-488-6906x6683,South Timothy,MO,62340,bronze,4566,2022-12-29,False,organic,REF-8342,False,A001,2026-04-19T04:00:08.234773Z
+CUST-566399a4-1052-4a58-9ec5-0d7796153981,Denise,Guzman,rosaleszoe@example.net,206-800-7853x3509,East Gregory,ME,14764,bronze,5284,2024-02-09,True,email_campaign,,False,A001,2026-02-21T00:51:16.437034Z
+CUST-a222b61c-76a2-40e5-9499-1b4d5b32c3dd,Carlos,Bridges,cheryl22@example.net,001-613-735-4906x394,Maynardtown,MH,29191,bronze,10225,2023-08-02,True,organic,,True,A001,2026-02-14T06:37:45.822289Z
+CUST-d81174b1-4609-42ff-9df7-406be5a324e7,Pedro,Rodriguez,lynn49@example.org,+1-405-764-8528x941,Danielshire,MO,07751,bronze,7043,2025-10-25,True,organic,,True,A001,2026-03-27T04:35:23.776942Z
+CUST-6fef723e-6d57-48d3-8648-19fc1732dd2d,Tiffany,Duncan,larry11@example.net,4904290954,North Aaron,VI,48841,bronze,1460,2024-05-07,True,email_campaign,,True,A001,2026-04-17T21:52:35.313753Z
+CUST-4d923a96-963a-4f5c-bae9-dc31ee3113a2,Carrie,Contreras,robertsbrandon@example.org,532.569.5567,Lake Julie,PR,98364,silver,7969,2021-07-03,True,paid_search,,True,A001,2026-03-07T16:31:28.534629Z
+CUST-07775df0-1e49-476c-9ae7-1339daeb07cd,David,Johnson,aanderson@example.com,3764156884,East Anthonyfurt,ND,78128,bronze,375,2021-10-20,True,paid_search,,True,A001,2026-01-31T07:20:34.575508Z
+CUST-5da8e6ef-eeba-45f0-a8cb-762b023d8620,Ashley,Valdez,donald38@example.org,317-462-0688x1460,Yangport,HI,01307,silver,7805,2023-08-14,True,paid_search,,True,S002,2026-02-11T22:03:12.361249Z
+CUST-3ae89ac3-2ad0-4441-bfd4-d9ba2e3a417d,Christopher,Hardy,harrisonmark@example.net,(976)283-7800x3301,Jasonborough,IA,95135,bronze,8991,2023-07-25,True,email_campaign,,True,S002,2026-02-21T00:37:50.847879Z
+CUST-94c166a5-4c73-4654-86cb-11b110567ad7,Ashley,Carney,gonzalesbrad@example.org,+1-788-851-9479x82693,Piercemouth,VI,88741,bronze,5463,2022-06-16,False,social,REF-0132,True,D003,2026-04-01T09:37:44.200518Z
+CUST-a306f691-b032-4254-8c86-2f3f321e091d,Wendy,Bowers,ronaldstewart@example.org,001-594-336-7268x22161,Baileyside,MD,97882,bronze,1656,2024-05-20,True,organic,,True,D003,2026-02-13T20:05:05.656720Z
+CUST-a7856fa1-eda6-4f7a-a43b-c43b9f802e9a,Heather,Savage,david03@example.com,700-462-5315x268,South Shawn,NE,47968,bronze,11932,2022-06-07,True,organic,,False,A001,2026-02-06T15:18:34.719040Z
+CUST-0905ed1f-d916-45a7-90c9-5a54d95e1e42,Kevin,Nguyen,jcole@example.net,001-616-501-7670x67832,East Ryan,ND,52349,bronze,4815,2024-10-06,True,paid_search,,False,A001,2026-03-30T17:32:15.438811Z
+CUST-5ef931e5-134e-49e6-a6b0-ba72834ee991,April,Garner,alexandercarter@example.com,(986)455-9838x8392,Floresmouth,RI,11475,bronze,9362,2022-01-08,True,paid_search,REF-3821,True,S002,2026-02-10T23:47:50.260516Z
+CUST-175ee88f-1785-4dfb-bf47-16c7b251f492,Alexis,Davis,robert99@example.com,589.467.8345x45251,West Elizabethborough,VA,09105,gold,10076,2025-08-14,True,referral,,False,A001,2026-02-22T05:09:55.374381Z
+CUST-b83d6dc0-3d8e-4fe7-987e-9aede3e65065,Sean,Price,fernandezlaura@example.com,780.547.7689,Marieshire,IN,28163,silver,3030,2021-11-07,True,paid_search,,False,A001,2026-02-25T07:37:28.843418Z
+CUST-f0264b9e-f5eb-4670-a794-177bdf6a3b88,Rodney,Greer,jennifer24@example.org,+1-504-585-3398x000,North Michael,OR,57333,bronze,11408,2024-08-11,True,organic,,True,D003,2026-03-09T21:35:04.127731Z
+CUST-7e7b632a-b1c5-4204-a683-b75af9d30bcc,Brett,Hamilton,christopher07@example.org,001-971-393-6301,Jasonton,DC,84645,bronze,11936,2024-04-01,True,paid_search,,True,S002,2026-01-29T16:34:41.850322Z
+CUST-7601b104-0d9b-4b0f-9db0-64be1e3e5414,Allison,Holmes,olsenchristian@example.org,(787)256-8439,Rodriguezside,ND,98459,silver,5365,2024-11-09,False,social,,True,A001,2026-03-17T13:50:51.002500Z
+CUST-860c9935-f6dd-46ea-b41f-4f8d976a35a4,Teresa,Nunez,denise76@example.org,(826)741-1164,Port Candice,WV,06057,bronze,2581,2025-01-03,True,organic,,False,A001,2026-04-19T23:52:51.850897Z
+CUST-38cc8a2f-ef57-4c9f-a7c5-776880f90387,Tammy,Woods,flittle@example.org,001-657-322-8478x02826,Lake Ryan,OK,87792,bronze,9678,2023-09-08,False,email_campaign,,True,D003,2026-04-06T07:13:45.392294Z
+CUST-3a795e66-588b-4be1-9e93-169b90bd494d,Greg,Johnson,jonathan83@example.com,+1-449-415-2932,West Cynthiaview,ME,41163,bronze,1829,2024-04-21,True,social,,False,A001,2026-03-08T13:06:55.519117Z
+CUST-16a60cab-36a0-4126-8560-fe066e57a970,Emily,Kim,natashamay@example.org,(304)278-2416,North James,IA,95687,bronze,9346,2021-08-04,True,email_campaign,,True,A001,2026-04-14T17:06:27.491366Z
+CUST-ad22b5eb-1bc1-4b64-9213-472aceb5b601,Cynthia,White,joelthompson@example.org,(859)255-7391x7924,Wilkinsonborough,ND,85175,silver,7347,2021-06-04,True,email_campaign,,True,A001,2026-04-20T22:57:04.594084Z
+CUST-6e52a7ee-f43d-4633-b213-8548c54632c7,Charles,Anderson,bailey39@example.net,410-343-4589x180,Lake Timothy,UT,77000,silver,11991,2023-01-12,True,paid_search,,False,S002,2026-03-01T10:09:28.925625Z
+CUST-402b0f30-1dc1-4a36-a03a-72559a7771b2,Felicia,Hill,mvasquez@example.org,574-505-6304,Carlahaven,MI,98931,gold,4992,2023-04-13,True,social,REF-0987,True,A001,2026-03-22T12:21:18.880181Z
+CUST-59007a4f-31c6-4fbb-9f3b-d5f1c34a6966,Joy,Clark,laurasmith@example.net,330.846.5157,Hollyborough,NJ,09310,bronze,2229,2022-01-15,True,social,,False,A001,2026-04-13T03:23:00.545255Z
+CUST-6a82f47f-b68c-48f7-baaa-39b43b1bd2ce,James,Davis,matthewpowell@example.net,529.913.8764,North Bryanbury,VI,29452,bronze,8441,2023-08-26,True,organic,,True,A001,2026-03-01T02:13:00.883535Z
+CUST-1a4f3478-4165-49d7-ab97-a97b4049b0d0,Margaret,Jones,ygoodman@example.com,338.844.6012x110,Port Gerald,AL,28506,bronze,7779,2022-05-04,True,organic,,True,A001,2026-03-09T16:33:26.543524Z
+CUST-d16bf716-5b6c-4946-9e74-28c9ef615933,Deanna,Roberts,melissa19@example.com,580.599.7226,Costatown,MN,08587,bronze,3737,2025-12-17,True,organic,REF-2509,False,D003,2026-02-23T21:21:41.433613Z
+CUST-5d6bf8ab-7325-454a-944e-8270d86a5452,Matthew,White,barry04@example.com,9655009905,Port Robertfort,RI,60425,bronze,1240,2023-07-19,True,email_campaign,,True,D003,2026-02-04T04:20:29.100457Z
+CUST-300df40f-5da6-487d-9f9a-647fa3343306,Steven,Carroll,phillipserin@example.net,935-859-8405,Melissamouth,AK,70068,silver,7865,2026-01-11,False,email_campaign,,False,A001,2026-02-03T01:56:52.928513Z
+CUST-61d49b8f-0768-4dc4-b6b7-02ebcb8df824,Amanda,Hurst,qrice@example.net,+1-374-335-9845,North Christopher,AR,08553,bronze,5630,2024-01-09,True,organic,,True,A001,2026-03-10T10:27:07.009157Z
+CUST-24aeb625-3b6e-4754-89a0-4f3f8884ac5a,Danielle,Smith,raguirre@example.org,581.346.8103,West Craigburgh,GU,77205,bronze,399,2022-04-07,True,paid_search,REF-2118,True,S002,2026-03-24T01:05:00.236947Z
+CUST-02dfefd1-2ad3-491a-a1e5-575c2f95651b,Michael,Robinson,zsmith@example.com,568.532.8464x225,South Janetview,ME,90067,bronze,2415,2025-10-28,True,paid_search,,False,A001,2026-04-16T10:49:52.872000Z
+CUST-0513e67e-cf46-4a75-b741-b0f371108b48,Kristin,Davis,simpsonjeffrey@example.com,(269)986-9729x791,Sophialand,VA,03393,silver,4879,2025-01-27,True,email_campaign,,True,A001,2026-04-23T13:32:42.821720Z
+CUST-4625e7c3-0630-4be8-b5ed-82966d0ab34c,Colleen,Woodard,melissawilliams@example.org,489.966.9472x28008,New Robynmouth,LA,42822,bronze,7790,2022-09-13,False,social,,True,A001,2026-04-01T06:21:00.188000Z
+CUST-da6920f1-822b-4651-804d-9c11ebec07eb,Mark,Griffith,charlesmoore@example.com,001-204-301-0222x691,Keithland,ID,97615,silver,1109,2021-11-21,True,organic,,True,A001,2026-04-20T14:48:43.079645Z
+CUST-e23fc04d-0225-4898-81f6-2823de5f053d,Sharon,Lin,phillipbecker@example.org,314-503-6645x152,Newtonshire,MO,21413,bronze,313,2024-05-04,True,social,,True,A001,2026-03-08T23:34:51.629020Z
+CUST-beaacb02-7f9d-47fc-80e9-401d6ac5bb64,Peter,Cooper,catkinson@example.org,359.497.2035,Lake Dillonmouth,NV,06121,silver,11243,2024-11-13,True,paid_search,REF-0674,False,A001,2026-02-18T13:54:21.204532Z
+CUST-9bf6754c-7a04-422d-8990-7d667ab83a46,Jacqueline,Cardenas,harryhawkins@example.net,001-631-667-4161x32320,Rachelborough,DE,09905,bronze,5411,2024-08-19,True,email_campaign,,False,D003,2026-04-05T01:38:14.318062Z
+CUST-4accdb6b-bd91-4e8a-a945-a053526855fe,Katherine,Perry,perrydavid@example.com,7748721517,Jacksonmouth,ND,05465,gold,11731,2023-10-05,True,organic,REF-1767,False,D003,2026-02-12T15:24:27.233295Z
+CUST-fb8681dd-520a-48f5-a276-cf3bac4bfdd9,Anna,Vargas,huertajohn@example.org,792-872-8752x326,Madisonfurt,MO,59206,bronze,7190,2025-09-29,True,email_campaign,,False,A001,2026-03-11T23:03:39.314552Z
+CUST-9027111c-440c-4409-a4aa-61d0b3207833,Karen,Lewis,andrewstiffany@example.com,001-255-803-5563,Joneschester,AK,91911,platinum,9878,2025-08-03,True,paid_search,,True,D003,2026-03-19T00:40:26.842113Z
+CUST-b27b4c43-bd1b-4d8e-9f94-0191d5a38898,Leah,Perez,justinzuniga@example.net,828.476.9006x91747,East Lauren,MS,33489,bronze,7465,2023-04-28,False,organic,,True,A001,2026-03-23T13:39:31.216583Z
+CUST-7e2698b2-3073-4324-83e2-c60ca7917de3,Julie,Moran,ipetersen@example.org,001-846-837-1787x916,Lake Samanthaville,WV,41517,bronze,11781,2024-01-01,True,email_campaign,,True,D003,2026-03-28T02:49:28.448510Z
+CUST-47c31528-0275-47c1-8711-46a1f468cc69,Nancy,Galvan,pattersonandre@example.org,544.306.2128,Johnfurt,ID,46074,silver,11851,2022-09-30,False,organic,,True,A001,2026-02-12T05:53:57.214908Z
+CUST-d74846dc-85da-4bd3-8069-96e2dccc292f,Courtney,Perez,reneeblair@example.com,(628)708-4031x448,Franciscomouth,RI,10740,silver,427,2026-01-26,True,referral,,False,S002,2026-02-08T00:02:52.480169Z
+CUST-53761ec1-1314-4b2e-9189-777fcf750c02,Robert,Norris,cruzallen@example.net,001-375-338-1902x942,Lake Jacobshire,AR,81723,platinum,1522,2022-03-25,True,organic,,False,D003,2026-02-11T11:38:59.571948Z
+CUST-f069898b-78a2-448b-91d4-69b4a41bbe35,Richard,Miller,jenningsnicholas@example.org,4796456255,Michelleside,DC,38018,bronze,6277,2026-03-25,True,referral,,True,D003,2026-03-31T18:03:41.072884Z
+CUST-dab387a4-9ef8-4c08-835f-663cf465a6ab,Brenda,Bennett,cranepatricia@example.net,001-472-622-1338x461,Brandyhaven,DC,11858,silver,7151,2025-10-24,True,social,,False,A001,2026-02-23T06:44:36.452872Z
+CUST-2fb42f9e-04f3-4bea-8d14-f589e98d92b4,Sharon,Jackson,madison78@example.org,719-505-3424x8902,North Kellyfort,CT,65970,bronze,9434,2022-03-31,True,social,,True,A001,2026-02-13T05:12:57.310168Z
+CUST-32dd492a-643b-4b71-bd2a-0d24138d2f7c,Danielle,Miller,erika42@example.net,(792)984-9576,Lake Amandaview,KY,30719,bronze,9653,2023-12-13,True,social,REF-7711,True,S002,2026-03-05T06:37:06.203955Z
+CUST-f0631aa7-51f7-4798-88d6-7fd0244e11b6,Jenna,Flores,mikereyes@example.com,(477)216-6817x6186,East Cynthia,IA,20152,platinum,4810,2024-07-16,True,organic,,True,S002,2026-03-21T09:56:37.817664Z
+CUST-76560738-acbe-47b8-ba78-d00b3031bdec,Rebecca,Smith,syoung@example.com,(467)239-1283x88469,North Rebeccachester,WV,03304,silver,3309,2023-03-05,True,social,,False,A001,2026-03-16T05:52:03.264515Z
+CUST-b9c8d3f8-1b59-4971-9754-f021581bd40d,Matthew,Williamson,haleycabrera@example.org,+1-218-454-7367x7490,Gatesberg,MP,79003,silver,1126,2023-09-12,True,social,,True,A001,2026-03-19T09:15:15.128574Z
+CUST-a5a39b79-5160-475d-948f-4bff393ccfb1,Tina,Baker,miguelshaw@example.com,706-956-9532,Brianfort,CO,77732,silver,5762,2025-09-12,True,social,,True,S002,2026-01-28T06:45:27.085254Z
+CUST-ea3be5a2-980b-4e9e-a386-6e7bbf77fe8d,Scott,Johnson,barbara00@example.net,001-925-285-1470x81079,Brooksville,MN,25306,silver,3367,2024-03-06,True,paid_search,,True,A001,2026-03-04T18:13:18.820306Z
+CUST-96e1b327-4b74-4f60-af8c-ac072d3525e3,Alexis,Craig,zsharp@example.net,001-494-893-4330x023,Port Kevinmouth,IN,01392,silver,4210,2022-03-21,True,social,,True,S002,2026-04-16T17:23:29.914512Z
+CUST-d4a76e36-0c5d-4406-8a46-bfd9907325aa,Scott,Herrera,brian29@example.com,9256143475,Lake Teresabury,PW,15525,silver,2333,2024-12-08,True,referral,REF-7487,True,A001,2026-04-06T05:45:41.563678Z
+CUST-108863cd-434f-4636-9cc4-7a94086085ff,Gregory,Case,frank07@example.com,+1-799-534-9380,Youngside,WA,30192,bronze,6729,2026-01-18,True,referral,,False,A001,2026-04-22T06:43:55.263931Z
+CUST-9f6e6192-f220-4454-ba69-055a9152aa09,Timothy,Joseph,nancy73@example.net,+1-794-415-5120x1266,Port Andrea,DE,44307,bronze,1568,2024-04-30,True,paid_search,,True,S002,2026-03-16T14:37:15.178106Z
+CUST-31d40e58-e6e3-46b7-b066-e75b0628a848,Anthony,Norton,lsmith@example.com,(257)372-5291,Lake Geraldstad,RI,95891,silver,10283,2024-03-09,True,email_campaign,,False,A001,2026-03-15T04:33:00.854401Z
+CUST-bdc02427-142c-4447-b002-27ae0fbf8404,Elizabeth,Davis,smitheric@example.org,+1-734-648-0997x56114,Vanessamouth,FL,27758,platinum,1977,2023-02-11,False,paid_search,,False,A001,2026-02-13T21:11:56.153173Z
+CUST-5e0f4e1c-3e45-4be1-95f8-19112a1b59b6,Richard,Thompson,halechelsea@example.org,+1-730-497-8389x43457,Mezaport,TX,74482,platinum,2157,2021-05-16,True,organic,,True,S002,2026-03-11T00:59:19.313369Z
+CUST-5a5d9e8d-db45-4665-bf83-a92fefcb0b92,Traci,Mason,andrea55@example.net,9815808492,New Madisonshire,MI,80478,bronze,5145,2021-08-20,True,paid_search,,True,A001,2026-03-11T00:59:47.479717Z
+CUST-493528e7-9e06-4912-994d-5444ecefa77e,Dylan,Martinez,christopherwong@example.org,+1-727-718-9167x6528,Markstad,LA,93699,bronze,2185,2021-10-08,True,email_campaign,,True,S002,2026-03-24T06:29:21.801743Z
+CUST-17cd0611-27fe-4ce5-a436-e2ef9440383b,Aaron,Brown,wrightstephen@example.com,7319959638,Port Jamesport,FM,08851,bronze,2646,2022-12-23,True,organic,,True,D003,2026-03-23T15:08:29.769069Z
+CUST-b502e8b9-3aa7-4cab-b0da-75e105c6a551,David,Johnson,usmith@example.org,+1-860-831-1669,North Claudiaville,WV,36384,bronze,11749,2024-02-17,False,social,,True,S002,2026-04-25T14:28:05.368763Z
+CUST-832eeea5-648b-4bb7-bcae-5171509549fd,Rachel,Salazar,mmullins@example.org,304.259.7471,West Seth,OH,23211,bronze,6238,2025-05-16,True,referral,REF-4953,False,D003,2026-02-07T18:43:38.953267Z
+CUST-8f3eabe5-3dab-420c-809f-0abb501228a0,Jerry,Bowen,jesselopez@example.net,(649)241-5425x336,Port Hayley,IN,99334,bronze,1141,2025-10-27,True,email_campaign,,False,D003,2026-04-28T01:49:54.318369Z
+CUST-70490aa7-df7a-455e-800a-ed06b43fe6c7,Tina,Fox,hendersondawn@example.org,001-434-267-1447x35741,Dunnton,MH,23716,platinum,10001,2022-12-08,True,organic,,False,S002,2026-03-22T13:58:09.561993Z
+CUST-90cd6975-8232-42b1-b099-3fdd56b119f6,Clayton,Harris,curtissmith@example.com,(242)946-4705,Arthurberg,GU,58279,silver,6163,2025-03-08,False,organic,,True,A001,2026-02-10T03:27:27.978850Z
+CUST-9b40f374-b39e-45e5-9616-dadaf3d9d304,Lori,Andrews,samanthakaiser@example.org,001-671-726-8254x0622,Kathleenchester,PR,41872,gold,5608,2024-05-27,True,social,,True,D003,2026-04-05T21:05:55.353957Z
+CUST-f5b83b8a-4789-4e4d-b43e-9bb6dbf9fb58,Michael,Reynolds,schwartzangel@example.org,216-295-3637x623,Lake Robert,AK,75344,bronze,7179,2023-09-05,True,referral,REF-0626,False,D003,2026-02-04T04:32:18.204889Z
+CUST-a6580f80-314b-425b-9f9f-9068f2441421,Guy,Madden,jayhouston@example.org,+1-363-787-4506x923,Davidborough,MP,21326,gold,8061,2025-11-23,True,paid_search,,False,D003,2026-03-13T16:49:41.097993Z
+CUST-432812b2-41ae-4dd8-98e4-50f614f6ee4e,Brandi,Ball,jennifer05@example.com,+1-417-952-3929x16762,East Scott,KY,34478,gold,8510,2023-06-07,True,referral,,True,A001,2026-03-30T22:31:31.755608Z
+CUST-621e5a52-42de-411e-a4a4-d6209be80160,Ashley,Johnson,fordkristin@example.org,668-599-5835x46770,Amyborough,TX,26841,bronze,10378,2021-05-19,True,paid_search,,True,A001,2026-01-30T18:40:09.547981Z
+CUST-35188f3b-0bf5-4907-8c72-796c70158dbb,Rebecca,Dennis,smithsteven@example.org,732.356.4951,Shafferstad,SD,63207,silver,876,2025-10-08,True,organic,,False,S002,2026-02-25T21:06:37.349704Z
+CUST-82e68b6b-8381-4822-ae11-9e20f94d9a75,Wendy,King,diazsuzanne@example.com,818-444-5836x287,North Christopher,NV,80826,silver,5982,2025-12-27,True,paid_search,,True,D003,2026-02-06T02:20:08.950945Z
+CUST-8cb88e3d-3657-41c7-ac68-909aa17b07f3,Joshua,Jacobs,patriciaevans@example.net,462.261.8285,Port Stacy,ND,64865,gold,3537,2023-11-29,True,email_campaign,,True,S002,2026-04-26T04:30:55.365001Z
+CUST-c94c9beb-5db8-4c57-891a-14ca8311cd5a,Michael,Miller,mharris@example.org,818.661.4606x59581,Blakeburgh,WV,29890,silver,5915,2023-09-14,True,organic,,False,A001,2026-03-12T06:29:18.348655Z
+CUST-7e5ed963-3207-48fc-860d-0ed7e3f16ed4,Thomas,Rosario,yruiz@example.org,+1-354-459-9698x59018,Sheilaport,CT,53348,bronze,11053,2025-01-29,True,referral,,True,S002,2026-02-17T17:00:13.395029Z
+CUST-a09fa0e7-1da2-4f8c-8521-8189f3e95160,Kimberly,Sullivan,scottkatherine@example.net,001-586-246-9494x401,Harriston,AZ,48902,silver,8739,2025-04-18,True,email_campaign,,True,A001,2026-04-14T20:43:58.473067Z
+CUST-4361fce1-78f2-40a2-8910-cae4701701a5,Lisa,Pitts,wbaxter@example.net,909.236.0339,West Amy,NC,22593,bronze,8080,2023-05-28,False,social,,True,S002,2026-03-04T13:42:20.625164Z
+CUST-ecdc222d-fde3-4956-9b05-dfea03e04cfc,John,Barber,elewis@example.org,(984)476-5839,Beanland,ND,21383,gold,3214,2022-05-11,True,social,,True,A001,2026-03-02T05:05:31.516391Z
+CUST-e8a6a62e-04b9-486f-a03c-af28d5902a5c,Tracy,Archer,tristanwilliamson@example.net,382-793-9249x8062,Trevormouth,WV,73317,silver,10605,2023-06-06,True,paid_search,,True,A001,2026-01-28T19:38:50.229110Z
+CUST-ad57ae29-4daa-482a-b663-00c67ad8c9e8,Manuel,Mahoney,uhuynh@example.net,(209)922-3293x67700,Port Allisonton,GA,21023,silver,10383,2024-01-26,True,organic,,True,D003,2026-03-13T23:24:14.656097Z
+CUST-35dd55fd-a747-4538-ab3a-59e2f05433b0,Daisy,Graham,abennett@example.com,(923)572-2587x3577,Priceborough,WV,67315,bronze,7171,2025-02-27,True,email_campaign,REF-9448,False,A001,2026-03-17T07:21:06.794090Z
+CUST-17a29a99-9efa-4bc2-9ae3-9816a69d85fb,Thomas,Logan,darlene85@example.com,+1-805-296-5785x92142,North Jessicaport,MI,75522,bronze,7623,2026-03-19,True,email_campaign,REF-8653,False,A001,2026-02-20T20:36:36.876756Z
+CUST-7c11ca78-2b91-4096-b2b8-11a984476368,Shirley,Howard,rodrigueztaylor@example.com,(918)363-8433x294,Alanchester,CT,06693,bronze,8669,2025-04-14,True,paid_search,,True,S002,2026-04-05T18:01:30.596142Z
+CUST-70e90030-3c96-457c-96ab-2abf90cc6570,Theresa,Garcia,maryosborne@example.net,001-601-626-0763,North Brian,ND,72767,bronze,6869,2025-04-15,True,referral,,False,S002,2026-04-16T00:56:45.941781Z
+CUST-6c9caa54-16bf-460d-97ad-77b4e129879b,Hannah,Schultz,webbseth@example.com,453.935.2669x94642,Josephland,WY,87439,gold,9509,2022-02-26,False,paid_search,,False,A001,2026-02-13T05:28:48.663309Z
+CUST-6eedae36-6c80-4dc6-98fc-a1865a2358bb,Tommy,Walker,jamesmoore@example.com,001-853-434-3640x823,Jaredberg,WY,42566,bronze,7183,2025-05-05,True,social,,False,A001,2026-02-12T17:22:14.633926Z
+CUST-017c6f9d-9cd2-45ea-8098-79515274711f,William,Davenport,joysnow@example.net,(482)680-0477,New Eduardotown,MT,14230,bronze,11153,2023-03-20,True,paid_search,,True,S002,2026-03-07T10:01:02.661637Z
+CUST-03ec367b-c195-40df-a6f3-fee0e82bef0f,Ann,Shea,zmorrison@example.net,(492)559-4108,New Michaelbury,MS,18885,silver,8181,2023-04-30,False,email_campaign,,True,A001,2026-03-14T09:26:46.817267Z
+CUST-3e6e8b38-43f6-4cb3-a980-9843e5c0e264,Brandon,Melton,makayla65@example.org,+1-672-935-4286,Port Isabel,MA,20473,gold,4272,2024-09-10,True,email_campaign,,False,S002,2026-04-16T19:31:13.055991Z
+CUST-0a36084d-5830-4f98-a6eb-da3defe5802f,Anita,Ochoa,ubell@example.org,+1-553-420-5441x171,Kimbury,MN,06845,silver,11474,2025-12-06,True,organic,REF-2172,True,A001,2026-04-13T06:43:48.456410Z
+CUST-e0afbab0-0040-44a0-bc91-a2840cd68dc2,Patricia,Osborne,jwatson@example.org,001-420-813-6320x757,Erikberg,IA,23598,bronze,9691,2021-12-21,True,referral,,True,A001,2026-02-01T03:56:13.964639Z
+CUST-a9a07209-389b-48fc-9f34-4dbb22cde9b9,Joshua,Johnson,zcampbell@example.com,001-661-253-4873x50569,Carlfurt,ID,47311,gold,7813,2022-01-23,True,organic,,True,A001,2026-04-22T16:06:20.171270Z
+CUST-06a68a63-a8ff-44b1-8b64-57a542ae363a,David,West,stewartmark@example.com,3978374772,West Tylerfurt,HI,95617,bronze,11565,2025-06-21,True,email_campaign,REF-9115,False,A001,2026-04-27T19:29:21.509792Z
+CUST-0d38cd98-a964-4555-86da-33f590bf15d0,David,Gilbert,ksilva@example.com,+1-425-967-5482,Farmerhaven,VA,89111,bronze,7643,2023-12-20,True,referral,,False,A001,2026-03-01T02:56:17.361414Z
+CUST-635095ed-50c4-46a5-81df-41bddee097d0,Victoria,Stevens,reynoldsvictor@example.org,934-508-3218,Port Stephanietown,KS,53890,gold,2290,2024-06-23,True,organic,,False,S002,2026-03-02T01:54:28.697966Z
+CUST-dd9af96c-9a01-4d92-92db-1e70ce743781,Diana,Davidson,mathisdavid@example.org,001-701-223-9555x554,Andreahaven,AK,90533,bronze,11648,2023-10-29,True,social,,True,A001,2026-03-01T00:35:30.261992Z
+CUST-f70461d3-5725-49f4-b5c6-1754458a9d5d,Stacy,Payne,kellerjacob@example.net,001-889-612-9665x36306,East Yvette,WV,69340,silver,8489,2023-01-21,True,organic,,False,A001,2026-02-23T06:31:52.708678Z
+CUST-7f370578-b1c7-4193-908d-d8b10ac20d82,Rita,Walker,kennethgonzalez@example.com,227-333-6061,Joshuashire,OH,74636,bronze,7130,2022-10-17,True,organic,,True,A001,2026-03-07T08:12:21.561526Z
+CUST-5a9bc1a4-2b54-457f-9814-e28d35d23a03,Marcia,Prince,emily53@example.com,+1-690-580-2135,Cordovaland,SD,63271,bronze,10824,2024-06-17,True,social,,True,D003,2026-04-26T08:24:55.795363Z
+CUST-2491df6b-369d-49a6-91a0-dba6de83c464,James,King,ann09@example.com,001-907-706-6852x1020,Lake Alexandria,VT,42221,silver,7700,2025-04-24,True,referral,,True,A001,2026-02-12T23:58:07.973734Z
+CUST-3420a766-8d16-4996-9a83-cb139ef08d20,Ronald,Holmes,michael83@example.org,(808)325-6015,Lukeside,PA,78584,silver,11349,2024-02-09,True,organic,,False,S002,2026-04-04T09:57:59.655613Z
+CUST-1dfeb6bb-9cdc-4380-8b92-4632556a5923,Justin,Ramirez,jesse01@example.com,(649)642-5200,Nathanhaven,AS,29407,silver,10143,2023-08-12,True,referral,,False,A001,2026-02-03T02:59:48.012828Z
+CUST-fb98b86f-93ee-4e4d-bcee-6bef1de81677,Kara,Robinson,francisjoseph@example.com,001-853-834-5216x9899,Seanview,PW,90267,gold,5914,2025-09-26,True,email_campaign,,False,S002,2026-03-10T02:03:54.732147Z
+CUST-ed4b0bf1-018a-4fff-b07d-2ef2678b66a9,Anthony,Adkins,brian85@example.org,(793)627-4523,North Sarah,WY,64027,gold,5802,2022-06-06,True,social,,True,S002,2026-04-19T18:57:41.581903Z
+CUST-49ea87be-8d10-4a9a-bebd-97612c2da462,Kelly,Scott,andrewyork@example.com,+1-866-237-1891x6326,Port Nancy,KY,53166,gold,3325,2025-10-16,True,email_campaign,REF-0275,True,A001,2026-02-06T12:23:13.519112Z
+CUST-85e01352-57a2-4ddb-8b75-c4142d6e6e6a,Chad,Martinez,nhoward@example.net,551.504.4950x12495,Heidiville,TX,31825,bronze,2532,2024-07-03,True,referral,,False,A001,2026-02-11T12:25:28.849641Z
+CUST-89972e48-02d1-4187-b3ff-7b933dd83610,Dawn,Smith,oallen@example.com,001-942-702-0722x905,Fletcherview,LA,46258,silver,6171,2024-08-30,True,referral,,False,A001,2026-03-11T08:55:24.475380Z
+CUST-15920736-6e6e-4911-97b6-5391a219e8f3,Wendy,Erickson,griffinalicia@example.net,001-947-355-5757,West Emily,PW,39783,bronze,6117,2025-07-15,True,email_campaign,,False,A001,2026-03-09T18:16:20.562295Z
+CUST-a3992be4-6cc3-4a9d-8686-0a6dfd8a021d,Daniel,Hall,mark03@example.org,4803426698,Frankhaven,CT,83337,bronze,9809,2022-06-08,True,paid_search,REF-8243,True,A001,2026-03-05T03:37:43.763147Z
+CUST-7ad17850-9365-4400-9c0d-6ab8096a66d9,Douglas,Evans,fischerjohn@example.com,912-465-0787x22856,Wilkersonland,MI,71580,silver,267,2021-05-13,True,email_campaign,,False,A001,2026-02-09T04:19:59.225303Z
+CUST-52221557-72e7-4703-b0a0-ef53612faf64,Diamond,Carlson,ortegajulia@example.net,565.797.1883x14248,West Joemouth,OH,64005,bronze,2976,2021-06-02,True,paid_search,,True,A001,2026-03-24T08:50:18.985594Z
+CUST-e6e81b48-a538-42f6-aa2d-2bceeac18ea6,Adam,Anderson,sarahrodriguez@example.net,583-976-0194x375,Dennisburgh,FL,17860,bronze,783,2022-02-25,True,referral,REF-2753,False,A001,2026-04-23T04:28:28.731204Z
+CUST-f58ba450-7035-4b5b-8478-57025e185a17,Johnny,Hall,mpearson@example.org,+1-948-931-4375,Davisville,FM,16448,bronze,4939,2021-12-19,True,social,REF-9579,True,A001,2026-03-28T22:08:54.763495Z
+CUST-b4e0d32f-5107-4c9f-b90e-c751e04dd9b3,Laura,Bullock,jacksonkevin@example.org,6067061841,East Jamieside,WY,25293,silver,9149,2023-01-21,False,email_campaign,,False,A001,2026-03-13T10:05:58.626717Z
+CUST-5422c81c-7fbf-4b71-a096-44c9b4303476,Paul,Williamson,kaiserchristina@example.net,+1-848-442-4715x311,Lake Mark,PR,62964,gold,6578,2022-01-14,True,referral,,True,S002,2026-03-02T18:09:15.479380Z
+CUST-739269b9-eead-4671-8d5f-baf726dc66f1,Nicole,Callahan,marcus05@example.com,(262)386-2599,Deannaville,MT,18737,platinum,8549,2024-03-23,False,organic,,True,D003,2026-04-02T19:58:40.391689Z
+CUST-a8f3082c-af28-4c41-a79b-41e48267a28c,Rodney,Booth,meghan78@example.org,577.212.7521x82478,Lake Susanfurt,KS,30812,bronze,10416,2023-11-01,True,paid_search,,True,A001,2026-03-05T13:11:07.233932Z
+CUST-80977aa0-bf98-42cc-a87d-570140141be1,Jessica,Buchanan,kayla91@example.net,+1-825-840-3816x7409,Lake Rachelport,GU,38012,silver,6253,2022-03-03,True,referral,,True,A001,2026-03-04T15:39:57.374221Z
+CUST-005f7ba0-8436-483d-a84b-c0c8827c2df6,Kristina,Morgan,lisacobb@example.net,001-452-238-3752x8242,East Christopher,WV,26747,gold,1210,2026-03-26,True,referral,,True,S002,2026-02-13T04:01:27.223443Z
+CUST-faf36c13-3d96-402f-a09d-b4688b59f576,Misty,Campbell,xkim@example.com,791.559.8476x41611,Erikaton,IL,53761,bronze,5275,2024-03-02,False,referral,,True,A001,2026-04-08T03:01:33.338306Z
+CUST-98dbd23f-b792-4709-9f19-f88aff0059bd,Melissa,Schultz,aguirrelinda@example.net,(950)746-5305,Port Taraport,MH,45683,gold,1273,2025-08-26,True,referral,,True,A001,2026-03-10T13:56:19.328732Z
+CUST-abac700a-67bc-4612-a2d4-a3ba3405efbf,Briana,Hall,dwaynenelson@example.net,(960)412-7226,Saundersland,MO,78930,bronze,3955,2024-12-10,False,social,,True,D003,2026-02-21T15:17:29.618392Z
+CUST-f86f66c5-fe6c-49bc-afe2-73a2ce367af6,Scott,Crawford,emartinez@example.net,3812723032,Millerborough,LA,53640,bronze,10814,2022-01-27,True,paid_search,REF-6393,True,S002,2026-02-07T01:22:11.172002Z
+CUST-eceb6e58-341b-4858-910a-6b0d6405d7c9,Shannon,Hanson,jessicasingh@example.net,+1-875-756-0904,Chapmanside,VT,08621,bronze,3439,2022-05-19,True,email_campaign,REF-9995,True,A001,2026-02-21T20:57:27.610149Z
+CUST-1cb27c47-3ce4-4d3b-9418-b3159faaa96b,Jeffrey,Dougherty,michellevazquez@example.com,+1-681-817-2234x41383,Vincentland,NM,10767,bronze,7801,2026-01-16,True,paid_search,,True,A001,2026-03-10T05:14:06.650524Z
+CUST-addd421b-1fb3-43a2-8802-4a9d85dc9557,Deborah,Oconnor,robin27@example.com,6752368316,Morganmouth,CA,12999,bronze,10482,2021-07-24,True,social,,True,A001,2026-02-26T16:15:12.256642Z
+CUST-885de1e1-fd81-4727-80ff-907f2299aed9,Kara,Olsen,kristyedwards@example.org,612-596-4729x07159,Lewishaven,MA,61931,bronze,7113,2022-06-14,False,email_campaign,,True,A001,2026-03-11T11:55:39.152259Z
+CUST-7ecc000c-6e57-4844-ad13-5ca080c40647,Hannah,Perez,samanthali@example.org,+1-700-419-8653x010,Nguyenshire,WV,75093,bronze,4245,2025-06-12,False,email_campaign,REF-2900,False,A001,2026-02-26T12:24:21.183155Z
+CUST-d88f93bd-6d39-4db8-b994-7f6834ee8636,Vanessa,Gutierrez,eric95@example.org,835.263.3396x0869,East Andrewview,OH,25811,silver,5707,2021-09-18,True,paid_search,,False,A001,2026-02-08T09:16:33.129255Z
+CUST-a74407fe-fe04-4ac8-8f49-d5b6485a209a,Taylor,Wheeler,wilsonrebekah@example.net,+1-757-756-0656x485,Juliabury,FM,84549,silver,6516,2024-12-10,True,paid_search,,False,A001,2026-04-26T14:00:15.208033Z
+CUST-5a3f2f63-70fb-4ed4-afa3-815d686450e4,Frances,Gonzales,pmiller@example.com,001-436-590-8753x2346,Port Ann,WA,90612,silver,11326,2023-01-04,True,referral,,True,S002,2026-02-26T22:54:07.413546Z
+CUST-e43108ff-2231-4afb-bd71-2341fb49dcf1,Jeffery,Ryan,jorgeharris@example.org,946.791.2260,East Robert,WY,79071,silver,9425,2021-10-27,True,email_campaign,,False,A001,2026-02-10T08:26:43.216349Z
+CUST-f5477e41-c472-48b3-b377-5f30690ac30b,Randy,Caldwell,hamiltonanthony@example.org,+1-259-227-6628x34769,Townsendchester,AR,91620,bronze,7783,2025-06-09,True,organic,,False,S002,2026-02-06T19:32:17.707695Z
+CUST-76ac3e89-9d04-42b2-8309-1876b1317d4a,Eric,Sandoval,paul07@example.net,550-588-9993,Lauraville,CT,67373,silver,7709,2025-07-17,True,paid_search,REF-0401,False,A001,2026-03-23T14:53:26.035856Z
+CUST-b928af6e-50ef-42e0-a6ba-0896cde977be,Samuel,Pearson,andre41@example.org,3332845294,Calvinmouth,HI,45317,gold,9619,2023-01-20,True,referral,REF-6040,True,S002,2026-02-13T12:56:43.137424Z
+CUST-e2099680-42a3-4246-b2e2-2c35b3aa8a12,Nicole,Carrillo,angela24@example.net,001-262-708-7765x37926,South Terry,KS,07867,bronze,10536,2023-03-10,False,referral,,False,D003,2026-02-18T02:16:44.029227Z
+CUST-02226dd7-f661-49b6-8fab-d60a78cf8b21,Miguel,Washington,nancyramirez@example.org,001-957-868-1630x20617,Lake Williamchester,CA,14353,silver,1745,2022-09-28,True,referral,,False,A001,2026-04-07T16:41:57.990017Z
+CUST-13371b11-7a97-418d-b425-d978d65ed1a1,Melissa,Price,chase78@example.com,001-406-557-2450x830,New Heatherberg,KS,64340,gold,8048,2024-01-15,True,organic,,True,A001,2026-02-22T05:18:33.917562Z
+CUST-f7c2cf54-3694-4562-b9cb-c028fd5f7e3d,Kathleen,Hampton,wgarcia@example.net,(702)675-9790,West Markchester,TX,99115,silver,10679,2025-09-26,True,paid_search,,True,D003,2026-02-18T11:24:35.028943Z
+CUST-db574ba9-2a22-48f9-b4eb-505a6c767493,Aaron,Holmes,wattsdouglas@example.org,9626317669,Lake David,HI,53929,silver,2598,2025-09-26,False,paid_search,,False,D003,2026-02-05T16:41:21.747877Z
+CUST-d25bfbd1-9d8a-4ffe-835f-d34ce1b9dbe7,Brendan,Wilson,mooresarah@example.org,001-649-655-9367x915,North Valerie,KS,62433,bronze,5518,2024-11-19,True,social,,True,S002,2026-03-22T11:52:43.695955Z
+CUST-68d384c5-9686-4de3-8156-ff2ce8b16c49,Karen,Sanchez,mwalls@example.com,(997)469-0866,East Hunterstad,TN,29650,bronze,11069,2024-07-25,True,referral,,True,S002,2026-03-01T11:27:12.143327Z
+CUST-7f57caac-ba12-4e22-85ae-aa3015e73159,Julie,Garcia,brandon56@example.org,724.874.7066x9065,Port Anna,WV,65057,gold,11789,2022-03-27,True,referral,REF-7004,True,A001,2026-02-05T08:09:46.206338Z
+CUST-a954b4c4-5665-4320-b10f-e0077652ebe4,Shane,Levine,jacquelineramirez@example.org,+1-298-266-0396x4515,New Anthonyside,FL,59151,platinum,7015,2023-08-12,True,referral,,True,A001,2026-02-24T04:30:54.810658Z
+CUST-cd9c7d55-fe09-4dff-9555-18638eacbda2,Laura,Johnson,pamelawilliams@example.net,574-595-7368,Wilsonborough,AS,62671,gold,1650,2023-11-15,True,email_campaign,,True,S002,2026-03-25T18:41:34.995631Z
+CUST-90c1d9e7-9bbc-44cd-802a-9d7551cf53be,James,Calderon,dwilliams@example.com,556-957-6778x585,South Amandafurt,MP,37197,gold,522,2023-06-18,True,referral,REF-4511,True,A001,2026-02-01T17:58:42.304967Z
+CUST-20961e10-a58a-4812-a7c5-70433ab3a755,Sara,Garcia,joann62@example.com,313.324.7497x68006,Cainmouth,WV,14844,bronze,10989,2022-02-01,True,email_campaign,,False,S002,2026-02-04T17:23:21.110126Z
+CUST-bb5d590d-6b38-4c2e-b12c-4db0701ba4e5,Scott,Jordan,nicholas40@example.com,+1-598-828-2355,North Sarah,OR,75210,silver,7034,2025-06-11,True,referral,REF-8241,True,S002,2026-03-26T14:55:15.062227Z
+CUST-762b51a9-b08c-4b13-a51e-2a1646f55cd4,Chris,Moore,fchapman@example.com,5047305762,Kimberlyside,WV,81365,bronze,1353,2024-04-09,True,referral,,False,S002,2026-03-21T13:11:49.034625Z
+CUST-2a6e6ea9-4cd7-4d42-8336-6c8a9419d47e,Laura,Carpenter,baileyterri@example.com,797.768.1736,North Ashley,GA,33992,bronze,11229,2025-02-06,True,email_campaign,,False,A001,2026-02-02T13:21:06.739971Z
+CUST-94bc9924-8b94-44b6-872e-d6f66ae95386,Scott,Johnson,brittany04@example.com,553-634-6595x584,Jeffberg,MA,51983,gold,4670,2021-10-20,True,referral,,True,A001,2026-02-28T07:47:56.596935Z
+CUST-316ca0e6-67c2-42b1-b68d-6faf24c9a5e9,Jordan,Collins,ismith@example.net,(639)784-2139,Barronbury,GA,06498,silver,1833,2024-05-27,True,referral,,True,A001,2026-04-01T12:08:32.161727Z
+CUST-ab776a1a-9b1a-4498-934a-99e92eb165e3,Jeremy,Nelson,pcook@example.com,(390)505-2614x060,Lake Tony,WA,90406,bronze,11354,2021-10-18,True,social,,True,D003,2026-02-03T16:34:34.172813Z
+CUST-86fcbe3c-a753-4e16-9adf-f1b81941ebee,Caitlin,Robinson,zhartman@example.org,+1-922-627-1270x47712,North Stephenville,KS,85463,silver,11669,2023-09-15,True,organic,,True,A001,2026-02-17T11:39:36.187281Z
+CUST-152fe3b0-2e41-40c1-95fc-0c9ad14c446a,Dennis,Russo,monica70@example.org,+1-853-839-0538x99882,Lake Todd,OH,28850,bronze,9072,2021-10-14,True,paid_search,,True,A001,2026-02-17T22:50:47.076183Z
+CUST-00559579-48ed-42a6-804d-f621b4712f18,Joel,Travis,vperry@example.org,380.367.3782x488,Lake Michaelbury,WI,78143,bronze,5168,2021-12-19,True,referral,,True,A001,2026-04-13T13:06:58.578245Z
+CUST-53efeac4-f877-49e2-98c0-f1f7adc0ce04,Elizabeth,Brown,johnsonsara@example.com,(494)207-5754,New Amy,NJ,58546,bronze,5451,2024-10-09,True,paid_search,,True,D003,2026-02-07T12:17:23.680853Z
+CUST-52b85cad-ab51-4da7-b977-64a4b96a7b4b,Tracy,Anderson,kathrynholloway@example.com,468-368-4300,Amyberg,AZ,38760,gold,2971,2024-09-03,True,organic,,False,A001,2026-03-04T00:29:37.730487Z
+CUST-a3f9e395-d77f-4d44-80dd-87864de21d5a,Patricia,Patel,moorejasmine@example.org,807.291.6600,Jamesport,AS,36294,silver,2901,2024-05-13,True,organic,,True,A001,2026-03-24T08:06:55.522007Z
+CUST-fc7018a7-e38f-468e-9446-e129f20fcc59,Caitlyn,Gonzalez,amy84@example.net,001-762-440-6091x88645,North Gregory,WY,80018,gold,2307,2024-05-22,True,paid_search,,True,S002,2026-04-25T00:17:17.238583Z
+CUST-328d5810-3fa6-4a5d-b83a-1dcbdfd18aaa,Geoffrey,Carr,heather60@example.com,(577)949-9922x288,Douglasside,UT,04562,silver,7126,2022-01-03,True,paid_search,,True,A001,2026-03-28T15:27:01.979641Z
+CUST-f53950f3-d430-40c2-9085-404ffafcab43,Travis,Sutton,megancosta@example.com,(429)690-5483x1972,Port Christopherside,MN,60852,bronze,5503,2022-11-11,True,paid_search,,True,S002,2026-02-13T07:13:49.093479Z
+CUST-eb3ff3c6-079b-4d65-8b64-156c78128ba9,Karen,Jordan,emilyhall@example.org,001-315-930-8186x141,Carlymouth,CT,30243,silver,9448,2022-09-12,False,email_campaign,REF-1460,True,A001,2026-03-25T23:43:15.866713Z
+CUST-9eb052b1-9531-4812-926c-f9aa73f8b418,Felicia,Bailey,fowlercharles@example.net,001-864-936-2946,New Jeanland,KY,50528,bronze,10109,2022-10-24,True,social,,False,A001,2026-02-17T10:50:37.880441Z
+CUST-3c045026-b8cf-4b1d-96b7-a82c883ed0d9,Krista,Roth,stephenfox@example.net,001-786-849-5522x97802,New Amber,DC,41187,silver,8517,2025-04-23,True,referral,,False,A001,2026-02-19T04:30:41.381686Z
+CUST-282be468-57ca-471f-b984-d08560e0f5e9,Eric,Nichols,charles77@example.com,(977)678-5167,West Lori,FL,61234,gold,830,2021-05-20,True,referral,,False,A001,2026-04-12T18:49:38.095395Z
+CUST-4c97e258-ae92-4220-a9bf-4acaa1e628d3,Jasmine,Moore,marywalker@example.com,(773)990-0102,North Matthewtown,IN,95861,silver,2993,2025-03-31,True,paid_search,,True,S002,2026-02-02T09:46:26.781517Z
+CUST-1a961cb9-24ed-403e-ab40-fcb99c1dc715,Elijah,Lee,lutzmichelle@example.com,(627)575-9190,New Joseph,VA,70913,silver,9724,2023-01-19,True,referral,,True,D003,2026-02-11T11:36:50.746215Z
+CUST-0bb6aa78-4798-4a7f-a0ad-83d4eaa98057,Susan,Beck,awright@example.net,001-309-205-6909x23380,Grimesville,OK,85211,gold,6681,2025-11-02,True,social,,True,S002,2026-03-13T12:06:29.603277Z
+CUST-d548e7e8-5bba-4e0c-bc7f-64261b16205a,Robin,Ortiz,castromelissa@example.com,848.583.1224x32350,Rebeccaborough,MA,20390,bronze,10809,2023-12-03,True,referral,,True,A001,2026-03-27T18:09:35.506450Z
+CUST-8eaa3cbb-9e00-4808-9172-00d1d86ee624,Karen,Wright,larry03@example.org,+1-369-549-3260x791,Lake Donald,PA,08945,bronze,1015,2026-02-13,True,email_campaign,REF-2596,False,A001,2026-02-01T10:11:23.452819Z
+CUST-4ef8935f-56c7-4c3e-ae43-028d7dd9e08b,Shawna,Allen,langian@example.org,356-470-6272x98237,West Nicholas,SC,64694,gold,9379,2025-03-12,True,paid_search,,True,A001,2026-03-21T00:58:14.460922Z
+CUST-eab096f3-1841-4386-8993-2f0168d9cce1,Karen,Grant,hjuarez@example.com,643-624-5943x7655,East Craig,NJ,28695,silver,11801,2023-07-17,True,organic,,False,A001,2026-03-20T14:00:21.003127Z
+CUST-c4333de6-6f7e-4f0c-8df3-f79a2843c06b,Rodney,Hernandez,william29@example.org,001-781-429-6813,West Timothyborough,RI,42036,bronze,323,2023-10-02,True,email_campaign,,True,D003,2026-03-20T01:54:00.368978Z
+CUST-d17ab5e1-59e4-401a-adab-e8576844ec50,Richard,Green,ryan74@example.org,739-729-0720,Joshuaside,RI,27313,gold,9301,2023-03-17,True,email_campaign,,True,A001,2026-02-23T14:53:49.079494Z
+CUST-bae1969e-cd96-4975-8210-63f3b6af1cf5,Jacob,Roy,tbonilla@example.com,337-920-1835x79965,New Betty,NH,22589,silver,1904,2024-11-16,True,paid_search,,True,A001,2026-02-17T21:04:22.893145Z
+CUST-f19a0e48-7e7a-45a0-8697-239ee1658a52,Melissa,Howard,hannah92@example.com,4736016579,South Robert,MD,92459,silver,1806,2023-01-06,True,referral,REF-5436,True,A001,2026-03-16T17:34:11.969800Z
+CUST-400a210a-2b85-4bd0-bb8c-d363bf7183a4,Thomas,Ross,mrios@example.org,872-263-3171,Lisamouth,DE,98884,platinum,1002,2026-03-21,True,referral,REF-8046,False,A001,2026-03-27T23:33:27.107601Z
+CUST-e7b47082-63f0-42e5-9f35-dbf86a25c5ee,Victoria,Caldwell,ctucker@example.com,+1-725-849-0589,Lake Stacyside,WA,82314,bronze,781,2025-03-28,True,email_campaign,REF-8832,True,D003,2026-02-08T07:28:31.103626Z
+CUST-b3e4e5a0-64fc-43b0-8c43-f3540bc5299e,Teresa,Mejia,keithsparks@example.com,4695663692,North Michael,WY,65656,bronze,2203,2022-09-04,True,social,,True,A001,2026-02-28T05:39:09.924431Z
+CUST-4563f9d5-56a4-484e-873e-47f6e9968317,David,Miller,smithjessica@example.org,001-745-786-0707x15187,New Sydney,MO,03774,gold,1830,2021-10-07,True,social,,True,A001,2026-04-17T13:16:38.841455Z
+CUST-ec5196f8-1837-4221-9a71-0a5ac72b7c03,Anthony,Nunez,coreyellis@example.org,5346814177,East Christophershire,AK,54869,bronze,2283,2024-10-28,True,email_campaign,REF-1177,True,A001,2026-02-06T14:44:38.478864Z
+CUST-07255763-1c3b-4d96-ae7a-da910461f502,Charles,Parker,mccallgary@example.com,(643)904-8755x69010,Port Chelseaborough,CA,06305,bronze,8694,2025-01-17,True,organic,REF-9757,True,A001,2026-01-29T15:53:01.580559Z
+CUST-d606a7d1-a883-4425-ad17-3b2cb52b3dae,Ryan,Petty,gfrazier@example.com,(300)551-9132,Port Kristina,ME,09245,silver,4114,2023-06-23,True,organic,,True,A001,2026-04-11T16:57:01.348651Z
+CUST-73928ebf-d703-42c1-843a-3c7043ef3f04,Tracey,Morrison,brendahines@example.org,(858)380-4121,West Pamela,MS,87323,bronze,5748,2021-10-03,True,organic,,True,D003,2026-04-10T14:31:01.869530Z
+CUST-a7a8b5ab-fc44-4965-b679-eebb56c9c886,Michelle,Baker,kimberlysims@example.net,(585)662-5120,South Jacqueline,CA,65557,bronze,3029,2022-12-28,True,social,,True,A001,2026-03-10T16:17:33.885441Z
+CUST-d32df435-dd26-419f-b29a-21fe1dd50a7d,Theresa,Howard,christine53@example.org,001-624-728-9569,South Michael,VA,29156,bronze,10129,2023-09-08,True,paid_search,,True,A001,2026-02-07T10:31:42.234558Z
+CUST-57e1addd-acab-4a56-870a-52932956cd6e,Amanda,Hall,nhernandez@example.org,+1-268-508-1111,Brucefurt,CO,68201,silver,7578,2022-06-11,True,referral,,True,A001,2026-04-16T09:25:47.637823Z
+CUST-59e91da0-7f72-4918-b5dc-f341f552b932,Patrick,Howell,megan07@example.net,917.564.3401x6179,Christophermouth,OK,37408,bronze,11613,2022-07-29,True,referral,,True,S002,2026-03-31T06:40:57.832513Z
+CUST-0bd64b3c-169a-4953-8776-d9a9dbdbd178,Thomas,Duncan,chasekaren@example.net,292-801-9833x690,Port Amystad,PA,07859,silver,10145,2025-11-05,True,organic,,True,A001,2026-02-08T21:23:55.084696Z
+CUST-4ca82f3f-2874-4486-912f-79be9e7679f5,April,Valdez,christophergomez@example.com,772.892.7810,Mcleanbury,WI,30865,bronze,7735,2024-04-24,True,email_campaign,,False,D003,2026-03-07T16:08:38.320050Z
+CUST-435cdaf2-b459-4e2f-b9d6-9dddbce9c4d9,Scott,Ortiz,nicolelambert@example.org,(783)472-7485,Bryanfort,SC,62023,bronze,7592,2025-07-12,True,social,,False,A001,2026-03-20T16:56:34.472026Z
+CUST-b9f87a92-47c0-429e-bbf0-fbf7f4817571,Jackie,Cowan,kelly04@example.org,001-561-546-4970x133,Kennethville,AS,88756,silver,2336,2024-10-22,True,social,,False,A001,2026-04-18T12:41:41.119125Z
+CUST-227ac84d-e58d-4e4d-8d27-7b8ce5852dc0,Elizabeth,Smith,gonzalezanthony@example.net,594.669.6915x62405,North Tracystad,NE,42136,gold,5435,2023-01-20,True,email_campaign,,True,A001,2026-02-04T13:29:07.904406Z
+CUST-73951435-c3f5-45bd-9685-b4cf7756e005,Jordan,Miller,nancy17@example.com,(421)613-4280x25370,West Jennifer,OR,86350,silver,7015,2025-06-29,True,referral,,True,A001,2026-04-06T21:52:49.294511Z
+CUST-439f7eaf-78a0-43a4-9383-5c85f9abbe3b,Joanna,Guerrero,craig85@example.net,(524)882-1751,Martinton,MS,61677,bronze,7986,2023-03-04,True,organic,REF-4784,False,A001,2026-02-17T17:21:59.581572Z
+CUST-b69cc9a6-cc97-4553-8043-284bd817daf0,Glenda,Ryan,hcabrera@example.org,+1-237-948-2677,Laurenchester,NJ,39613,silver,9534,2026-03-28,True,email_campaign,,True,A001,2026-02-03T15:59:29.712914Z
+CUST-0c1f6812-5bcc-49a2-a974-6f18bcb90120,Elizabeth,Hernandez,mindy36@example.com,(916)498-2831x5932,Clarketon,IL,48963,gold,6310,2025-12-26,True,email_campaign,,True,D003,2026-04-24T21:17:32.558495Z
+CUST-fba9b2ab-c67f-48f5-93d2-ffb99b39f965,Marcus,Sosa,nathan03@example.net,+1-659-920-0388x704,Port Steven,IA,36354,gold,73,2025-01-17,False,paid_search,,False,D003,2026-04-12T09:49:53.805411Z
+CUST-ac510a34-534d-4655-86eb-0c2a5957b48b,Megan,Tate,stephaniecruz@example.net,(454)461-8419x740,New Virginiaburgh,FM,54448,bronze,2870,2024-07-06,True,email_campaign,,False,S002,2026-04-03T09:41:12.427670Z
+CUST-9e18b0b3-9d94-4794-a8a6-6eaed2235686,Andrea,Fischer,ibyrd@example.com,(200)232-6659x517,Leetown,PW,59442,bronze,8117,2025-02-05,True,referral,,True,D003,2026-02-08T21:42:55.729880Z
+CUST-e8fef547-e57a-4530-b2ef-d30f1f4a3b60,Wanda,Castro,anthony86@example.org,+1-233-543-3979,Lake Tiffany,FM,59364,bronze,2549,2024-01-08,True,email_campaign,,True,A001,2026-03-21T09:48:09.476012Z
+CUST-8f493708-8655-47a7-8b51-5555ee71d2e3,Kevin,Logan,ashleyhobbs@example.com,440.500.5288x89869,Grayland,IL,01761,silver,7901,2021-12-27,True,email_campaign,,True,A001,2026-02-24T09:42:33.411356Z
+CUST-aec7dd10-0c9a-4291-b7e1-021d391c12cd,John,Walker,hjones@example.com,001-349-243-1766x63593,West Jerryville,AL,96787,bronze,1021,2023-03-23,True,referral,,False,S002,2026-03-24T10:34:38.029771Z
+CUST-5d8374f8-d2a4-4bb2-8e12-57b7eb4689aa,Jenna,Anderson,pramos@example.org,(218)262-1359,Lake Kathymouth,KY,41072,bronze,1227,2025-05-15,True,organic,,True,D003,2026-03-21T23:56:32.063286Z
+CUST-3227e66a-ce7e-4c4e-adad-8ade53b6919f,Walter,Rodriguez,monique79@example.com,851-753-1463x924,Mitchellstad,WY,90736,silver,257,2021-05-27,True,organic,,False,S002,2026-02-17T21:12:39.991193Z
+CUST-e62208ac-8377-4ee1-97cf-fe56bc01a848,Joanna,Hines,heidi22@example.net,(428)891-0304x052,New Mollyborough,WA,78505,silver,89,2022-06-25,True,email_campaign,REF-4921,True,D003,2026-02-25T21:29:57.140491Z
+CUST-deac7709-5635-45c7-9bc6-4905b34b0d16,Mark,Meyer,kimberlybutler@example.com,725-464-3425,Hubbardland,KS,82456,bronze,9221,2023-10-06,True,social,,True,A001,2026-02-10T14:38:03.865311Z
+CUST-426a8a31-66e8-4342-aa54-f5cd545642a7,Sarah,Ferguson,griffinjim@example.com,461-435-1739x5145,Everettport,VI,40848,gold,719,2024-08-11,True,email_campaign,REF-4377,True,A001,2026-04-10T22:25:06.099962Z
+CUST-406521d4-decb-4672-99c8-98a92e32412e,Russell,Morgan,matthew23@example.org,494.767.8033,Lake Morganbury,PA,08053,bronze,2286,2025-12-23,True,email_campaign,,False,S002,2026-01-28T09:06:05.698916Z
+CUST-29e936ae-ee49-4b1e-8875-76d39cb5a1da,Jesus,Russell,briannawillis@example.com,9372199844,Welchborough,ND,55905,bronze,1414,2021-11-13,True,organic,,False,A001,2026-04-24T20:08:37.853231Z
+CUST-11182ce9-83af-4c52-b111-49979b42ff51,Edward,Rivera,nancyyang@example.org,+1-663-831-2361x44733,Port Steven,PR,89640,silver,4301,2023-05-24,True,paid_search,,True,A001,2026-02-13T20:09:51.252179Z
+CUST-9575b47f-886a-4976-8ca5-86aec4918d78,Francisco,Baird,matthew34@example.org,428.318.5652x9464,Aaronfort,PA,89266,silver,6740,2024-04-13,True,organic,,True,S002,2026-04-09T06:52:50.255300Z
+CUST-2dbc1f75-ab41-4876-9906-d2f1edd0bce5,Amanda,Brown,lisarichards@example.net,001-963-202-0579,Stevenside,NH,43875,gold,4249,2023-08-07,True,email_campaign,,True,D003,2026-02-10T08:40:40.308339Z
+CUST-a329d6f8-0b1a-4e49-a53a-b47764cb8bd0,Barbara,Lamb,vmurphy@example.com,333-357-2863,Davidshire,MH,59599,bronze,4282,2025-04-28,True,referral,,True,A001,2026-02-15T17:45:01.860914Z
+CUST-e755d0a6-4844-4c52-859d-3c233d9cd705,Joshua,Leon,jamesreyes@example.com,803.335.3816x907,South Oliviachester,NC,94975,bronze,8202,2024-08-27,True,referral,REF-7751,True,A001,2026-04-24T12:56:18.384387Z
+CUST-dc2a24b7-0a18-46d4-9a32-d9934cdedaaf,Ashlee,King,richard63@example.com,+1-226-975-2267,Kevinside,SC,44080,bronze,987,2023-07-07,True,referral,,False,S002,2026-03-25T18:10:39.978755Z
+CUST-733a776a-8ece-4907-a511-b6f517e8b27f,Travis,Kane,shirley66@example.org,715-850-6960,Hornestad,VA,97020,gold,10570,2023-07-03,True,referral,,True,A001,2026-01-28T14:11:38.507390Z
+CUST-7467367a-2fda-4cd0-9783-c7a17ccd76f8,Rachel,Lindsey,jyates@example.org,+1-218-310-8499x3478,Racheltown,LA,38498,bronze,7939,2026-02-19,True,social,,True,S002,2026-03-14T02:06:44.754488Z
+CUST-baa1ce97-7239-4a7c-9a7c-606f0a1de898,Michelle,Johnson,justinjohnson@example.com,940.524.3151x3738,Dixonfort,MP,51570,bronze,3114,2024-04-03,True,organic,,True,A001,2026-02-12T12:46:05.727265Z
+CUST-3f247db3-5cb3-40d7-83af-fb8e45edb8e7,Austin,Cline,oroberts@example.net,351.503.1945,Jasonbury,FL,49824,bronze,2495,2026-01-18,True,paid_search,,False,A001,2026-02-03T00:51:03.369302Z
+CUST-39b77087-3a0d-4c15-953d-49fc7aa26be6,James,Taylor,dsmith@example.net,+1-951-765-3155,Lake Davidside,PR,11284,bronze,9557,2024-06-27,True,referral,REF-0714,False,S002,2026-03-05T02:24:06.278995Z
+CUST-98f927f2-c765-436b-a3fa-eed0e73cd5b3,Thomas,Alexander,gleblanc@example.com,001-993-233-0113,Mcgeeland,KS,71271,silver,8473,2024-03-16,True,email_campaign,,True,A001,2026-01-28T13:20:17.168160Z
+CUST-4f198ca8-f743-4d44-afef-8a46d4dca7d5,Cole,Silva,jacqueline37@example.org,+1-593-249-3371,New Jamie,OK,77806,silver,6964,2025-05-25,True,email_campaign,REF-7692,True,A001,2026-04-12T08:41:09.262436Z
+CUST-5e5a0756-f6a5-425b-8f31-d8abc8fd2976,Valerie,Gray,derek91@example.org,+1-871-529-1258,Charlesberg,NH,28909,bronze,4941,2022-11-09,True,social,,True,D003,2026-04-10T23:28:01.774467Z
+CUST-0f684189-c2d5-4986-a8e2-c41547a41987,Justin,Pruitt,rachelwilliams@example.com,(618)761-4483x37529,North Beckyshire,PA,81704,bronze,9169,2025-11-29,True,social,,True,S002,2026-04-22T18:47:51.158199Z
+CUST-f496d381-89ba-4c19-b2ae-4b505c607ca2,Pamela,Greene,beth89@example.net,(415)343-5018x640,Youngshire,AR,96453,silver,10606,2021-07-31,True,paid_search,,False,A001,2026-04-27T14:37:10.641177Z
+CUST-5c57d64c-293c-4ab9-8b2c-63f5ea6ff109,Destiny,Shannon,deborah59@example.com,377-788-1586,Jenniferfort,GU,25136,gold,9312,2022-07-22,True,paid_search,,True,D003,2026-03-24T13:35:59.311109Z
+CUST-8b503c08-0617-4194-8f5e-a83f65521b39,Aaron,Rice,andrewsstephanie@example.net,4565683061,Charlesborough,GA,44526,silver,1470,2026-03-21,True,paid_search,,True,A001,2026-04-05T13:37:56.831322Z
+CUST-6a3d3114-ce4d-4130-ac71-34a264017923,Emily,Brown,ygarcia@example.com,+1-757-584-2958x1367,Melissaborough,CO,20624,bronze,5746,2022-09-09,True,social,,True,S002,2026-04-25T09:13:33.038809Z
+CUST-dd52f5ef-720d-4243-bda0-67117297863a,Shelly,Freeman,marysingh@example.com,291-717-5500,Nobleside,PR,09463,gold,6841,2024-06-25,False,referral,,True,S002,2026-03-18T19:16:27.172835Z
+CUST-53d9c386-d999-4bd1-8fed-a2edd5519694,Jonathan,Martinez,castillomarvin@example.net,+1-986-958-3742x90042,Rogerschester,AS,10210,bronze,2263,2025-10-25,True,social,,True,D003,2026-04-11T18:36:36.484079Z
+CUST-d9609cb5-5207-480c-82c5-c094b451908b,Jasmin,Thompson,swilkerson@example.com,403.642.4176,Harrisport,RI,81163,bronze,7321,2024-09-05,True,social,,True,S002,2026-03-19T03:51:51.239972Z
+CUST-690be39b-1177-458e-aec3-0ab5b2caf052,Mark,Potts,martinezkathryn@example.com,+1-372-790-7353x25964,North Jeremy,MO,16701,bronze,2691,2022-08-15,True,email_campaign,,True,A001,2026-03-22T21:02:57.905455Z
+CUST-4f1c92f6-fbfb-42df-a0c0-0c19366c1459,Kayla,Daugherty,amyhughes@example.org,2794813082,New Jasonland,DE,50234,platinum,2272,2023-05-23,True,paid_search,,False,S002,2026-04-18T09:10:06.507642Z
+CUST-0e314dce-7de0-4b16-97f1-6d6bb83e7186,Christopher,Walker,hannah64@example.com,+1-541-442-4482,North Donald,IA,31164,platinum,6355,2024-07-24,True,referral,,True,A001,2026-03-14T12:51:48.318339Z
+CUST-35e2ce39-4d2e-4466-94d1-01b83b56d631,Suzanne,Larson,kimberlyfitzgerald@example.com,896.431.0625x2759,Bellhaven,SC,85280,bronze,6573,2022-07-16,True,email_campaign,,True,A001,2026-02-23T12:07:39.394943Z
+CUST-a4266079-9292-437d-9090-b2bbc96e474a,Jared,Fernandez,harry34@example.com,(604)433-6987x941,West Mary,AL,31727,gold,10420,2024-02-29,True,organic,,False,A001,2026-03-05T23:31:33.402289Z
+CUST-474b5e16-b08e-44e0-bcb0-7a2c84fc2c18,Joe,Hicks,haroldcooper@example.com,915.712.2668x847,West Thomaschester,WV,98557,bronze,6104,2021-10-06,True,organic,,True,S002,2026-03-01T07:19:31.068952Z
+CUST-7aa34d6e-5d0e-4e1d-b9b1-d9388e7b64e1,Richard,Cook,youngtyler@example.net,001-247-725-2975x1827,Port Susanview,TN,32342,bronze,4079,2023-09-08,True,referral,,False,A001,2026-01-29T01:31:06.308639Z
+CUST-d953acc1-1156-4c76-a457-9b8110791ca1,Beth,Collins,solomonsean@example.org,(296)633-7497x467,Natashaville,WV,78244,gold,288,2023-02-13,True,paid_search,,False,D003,2026-03-21T17:23:56.720935Z
+CUST-e0283c05-0a27-4e52-b8e7-39c069364ece,Cynthia,Duncan,bmccarty@example.org,6593766579,Joshuashire,WV,48789,bronze,2897,2025-03-11,False,paid_search,,False,A001,2026-02-08T08:14:38.438550Z
+CUST-94690e2f-5760-43b0-aee9-8f3977b35bef,Nicholas,Phillips,pgross@example.org,728.366.1557,Hallmouth,CO,08727,platinum,9451,2024-01-24,True,social,,True,S002,2026-02-06T23:52:31.677758Z
+CUST-e39babb3-9bca-4b71-b97a-bb712a1ebc1a,Harold,Shelton,jflores@example.com,001-458-352-7545x16902,East Michellechester,PR,13619,silver,7278,2022-05-23,True,email_campaign,REF-4172,False,A001,2026-03-03T17:24:21.382606Z
+CUST-69a34cdf-5856-4f55-8b42-1a63da0b2e81,James,Scott,robert71@example.org,682-746-6726x5810,New Nicoletown,SD,13476,bronze,2134,2021-12-02,True,organic,,True,S002,2026-03-18T11:38:53.587698Z
+CUST-07ea0472-4c43-4386-8a54-eba27e61f582,James,Edwards,rkent@example.org,+1-624-984-6666x981,Williamberg,SD,91766,silver,4537,2022-02-03,True,social,,True,D003,2026-04-24T20:54:13.792876Z
+CUST-ae95c0c6-323b-4bef-ab6b-626d386c61bf,David,Mason,tonya34@example.org,919.423.4857x836,Connerstad,DE,27907,bronze,1385,2022-06-06,False,social,,True,A001,2026-04-12T13:05:38.684977Z
+CUST-b5e74269-ddc3-43a8-894a-62a12def6544,Benjamin,Landry,mdiaz@example.net,8772095623,New Deniseton,AK,60296,gold,8863,2021-06-03,True,referral,,True,D003,2026-04-21T03:07:15.734058Z
+CUST-2a824384-319c-4d10-99fb-5350f7411520,Steven,Smith,autumnblevins@example.com,(291)777-0436x7218,North Sandy,MN,54750,bronze,9147,2024-10-01,True,social,,True,S002,2026-03-28T01:56:37.413106Z
+CUST-e51f0ab7-e620-4242-bf52-a4a00fad8a62,Jared,Mitchell,luis56@example.org,4985734259,Maryside,WA,85213,bronze,8088,2022-02-20,True,email_campaign,,False,D003,2026-04-08T14:55:14.075383Z
+CUST-0dd6058b-20bb-4c11-b98f-d109b2516568,Eric,Morris,sgarcia@example.org,001-573-862-3434x5082,Thomaschester,TX,34623,platinum,4158,2025-09-09,True,paid_search,,True,S002,2026-04-19T23:06:25.698812Z
+CUST-1e41eeef-e986-410a-9ff0-be92201d5ffb,Kelly,Gonzalez,johnnybrooks@example.org,001-762-753-5522x3338,North Carolbury,TN,29244,bronze,7706,2023-02-12,True,social,,True,D003,2026-04-13T23:56:30.469582Z
+CUST-17e06ecb-8631-4f98-a7fe-6407ade1d7ab,Theresa,Robinson,cynthiacraig@example.net,001-210-762-2026x4682,Carlosside,MI,09035,bronze,328,2026-02-01,True,organic,REF-3826,True,A001,2026-02-17T03:28:09.561465Z
+CUST-52ab783a-1054-4c2f-aea1-a73758777f39,Jacob,Campbell,mariah77@example.org,001-880-741-9337x09281,Carlosberg,MI,43422,bronze,2322,2022-05-01,True,organic,,True,A001,2026-04-25T21:28:32.022648Z
+CUST-91e42fe4-d96b-478d-8efd-7e74e7a9f5db,Brian,Collins,reedmichele@example.org,616.295.2392x177,Justinville,KY,01288,silver,534,2024-10-17,False,social,,True,A001,2026-03-03T12:43:55.860821Z
+CUST-dcbf587d-e024-427c-83af-330cd9cef2e0,Tracy,Smith,kristenmartinez@example.com,(379)822-0794x3456,Marshhaven,DE,25585,silver,1546,2024-01-16,True,email_campaign,,True,S002,2026-03-12T21:57:27.245561Z
+CUST-b1674889-d4b8-4707-b617-c62020d2e415,Bryan,Farley,gwilson@example.com,001-564-513-3022x852,Adamsburgh,VA,79474,bronze,2783,2025-05-19,False,referral,,True,A001,2026-03-28T21:23:31.415502Z
+CUST-e8a67f02-595b-46f3-900a-7d707f6b939c,Tom,King,tonya40@example.com,001-508-618-1570x9710,New Jonville,CT,43222,silver,4265,2023-06-04,True,organic,,True,A001,2026-03-11T20:15:46.414320Z
+CUST-783663f7-99c0-4ce1-ae1c-e464033903d1,Trevor,Moreno,michael23@example.com,+1-580-573-1191x410,Owenston,TN,15017,gold,5940,2025-12-15,True,paid_search,,False,S002,2026-03-01T14:26:56.695401Z
+CUST-3a37557b-b679-4da8-9a0d-13b9abceee9f,Noah,Gregory,zhart@example.com,001-820-953-8005,North Elizabeth,ND,35972,bronze,9753,2023-03-22,True,referral,,False,A001,2026-03-24T23:12:41.121381Z
+CUST-4ffc5f2b-8eb7-4101-b7ba-67e89c1ef829,Jacob,Wilson,brittany58@example.com,3813578916,Lake Michael,TN,74838,bronze,10316,2025-12-21,True,social,,False,A001,2026-02-15T13:21:03.501063Z
+CUST-b3cbbe14-93b4-4d90-b798-853833023906,Steven,Adams,danielle68@example.net,434-849-9503x22581,South Justin,NH,33514,bronze,6777,2026-01-05,True,paid_search,REF-3603,True,S002,2026-01-30T15:24:31.579791Z
+CUST-b80eaf2b-4690-44fd-9d3f-fc5c820d9227,Michael,Gutierrez,amberjohnson@example.org,001-355-443-4139,Angelfort,NJ,27948,bronze,11644,2023-01-16,True,email_campaign,REF-1017,False,D003,2026-02-21T12:31:10.063829Z
+CUST-05db24eb-d316-4a41-883f-96f752a63b9c,Carlos,Martin,lmorris@example.com,249.575.3662x9007,North Aaronfurt,SC,26364,silver,1380,2024-07-29,True,social,,False,A001,2026-04-26T09:51:07.363323Z
+CUST-9bd48f9f-4d4f-47a1-94f3-6d0984b13975,Dillon,Cunningham,mccormickalexis@example.net,733-437-1453,North Crystal,IN,03679,silver,2014,2026-03-20,True,referral,,True,D003,2026-02-18T09:28:30.821939Z
+CUST-4cee07a2-3318-477e-9c26-32e79ad44e8c,Joseph,Sparks,bpage@example.net,+1-495-332-7882x412,West Wendy,OH,20828,silver,8199,2022-06-02,True,referral,,False,A001,2026-02-28T18:09:14.035628Z
+CUST-d5d075c3-05b7-4e3c-a022-6890a4b05a98,Douglas,Myers,lharris@example.net,891.660.6872x6708,New Davidmouth,HI,10158,bronze,187,2022-04-04,False,organic,,True,S002,2026-04-09T22:45:22.020707Z
+CUST-babf9ce5-258d-4265-a818-308caee7df81,Chelsea,Cruz,joshuadoyle@example.org,(554)693-3507x916,West Jessicachester,KY,55378,bronze,10808,2026-02-02,True,organic,,False,D003,2026-03-25T00:50:00.468082Z
+CUST-ecd8c779-453c-411e-acc8-eb01bc05a8c3,Luke,Smith,ssparks@example.org,959.374.7389x4973,Travisville,OR,82933,silver,612,2021-04-29,True,paid_search,,False,A001,2026-04-21T21:03:44.171923Z
+CUST-60bdfa98-adaa-43f0-bf19-b5646bf7dbf9,Autumn,Cohen,schurch@example.com,001-271-418-5601,West Patrickmouth,VI,32315,gold,7144,2022-02-08,True,organic,REF-1345,True,D003,2026-02-26T10:25:10.390123Z
+CUST-e7e2e707-74ff-483c-89bd-3a6a133d0f86,Eric,Powell,bridget31@example.net,448.699.5239,South Nicholastown,PW,45733,silver,9618,2024-12-15,True,social,,False,S002,2026-02-12T11:51:07.106765Z
+CUST-5fd51397-48be-4f4e-80fa-d23bf89ab38f,Austin,Ramos,dhoward@example.com,(384)206-4482x057,Gonzalezport,IA,52131,bronze,3686,2021-05-13,True,referral,,True,S002,2026-03-26T16:04:39.527177Z
+CUST-ce3d579d-7343-4459-990b-7b3942202f20,Lisa,Harvey,cynthia87@example.org,813.778.0618x508,North John,WA,63710,silver,11544,2022-10-13,True,social,REF-0021,True,A001,2026-02-15T18:40:24.354621Z
+CUST-8f003d70-086d-4862-932c-7e4c9e1ae20f,Robert,Ramirez,bblake@example.net,001-246-335-6137x385,Lake Williamhaven,IL,16694,silver,562,2023-12-31,True,paid_search,,True,A001,2026-03-08T08:19:06.402696Z
+CUST-f5711742-c2b3-4c5d-9cbc-4d37ff77d209,Timothy,Miller,samanthareese@example.net,577-995-8410x892,North Kelliebury,ID,38024,bronze,2353,2025-06-29,True,email_campaign,,True,A001,2026-03-05T16:56:58.185046Z
+CUST-6838b413-5ebe-490a-8062-e45e07f50612,Shelby,Rodriguez,mckenzietrevor@example.net,306-982-9555,Michaelborough,MO,48339,silver,9714,2025-08-12,True,social,,True,A001,2026-02-14T07:26:53.182522Z
+CUST-80a5ce6a-e147-45f0-8b64-43a1d85f17ca,James,Johnson,felicia50@example.net,+1-317-466-9077x271,Courtneyburgh,PA,69358,silver,8729,2023-05-22,False,organic,,True,A001,2026-02-16T05:08:15.982797Z
+CUST-a1e0b306-707c-4282-8596-532d6057f18e,Emily,Carlson,robinsonrobin@example.com,+1-302-785-0971,Brooksfort,NC,60531,bronze,10791,2022-08-16,True,email_campaign,,False,A001,2026-01-30T18:08:48.867284Z
+CUST-5756fd2e-8990-4aeb-9acc-99be30fabd46,Paul,Ortega,nataliewilliams@example.org,001-574-378-5727x62919,Jacobschester,MH,49652,bronze,4946,2023-09-20,True,organic,,True,A001,2026-03-15T16:06:38.748879Z
+CUST-1708b8af-a8ff-40ee-840d-e41875a65e13,Teresa,Briggs,kristina44@example.com,506-776-4734,Port Bethfurt,AR,19450,bronze,1174,2024-06-27,True,referral,,True,D003,2026-02-22T11:31:08.317789Z
+CUST-7b40889c-002e-4b03-b897-00f8348e637c,Margaret,Garcia,alexandriacook@example.com,(228)753-9502x88829,Kimberlystad,NM,25981,bronze,3812,2024-11-20,True,organic,,False,D003,2026-03-03T09:53:18.058125Z
+CUST-fc8493a6-52d4-4b61-87c3-810085450387,Kathy,Delgado,wellsnicole@example.org,826.265.5152x64190,North Douglasmouth,RI,43387,bronze,11390,2023-01-14,True,social,,False,A001,2026-03-03T15:39:01.360178Z
+CUST-a7255401-c8d0-4fda-84c4-f2ba487be75e,Erika,Richards,chavezmegan@example.com,628-457-0181x3635,Lake Lisatown,MP,58510,silver,2998,2022-01-01,True,referral,REF-9165,False,A001,2026-02-05T14:27:16.660340Z
+CUST-227096f4-5431-4d34-ba21-0a0805acd793,David,Yates,briancross@example.com,(938)423-6231x9176,Huntview,MI,20183,silver,5255,2025-09-13,True,paid_search,,False,D003,2026-04-03T14:25:55.697252Z
+CUST-08154541-1037-45bb-ab9b-0cfa157e5802,Samuel,Johnston,laurawatson@example.org,+1-868-442-9902,Port Janetchester,NE,11611,bronze,7802,2022-12-18,False,email_campaign,,True,A001,2026-03-10T18:39:30.103902Z
+CUST-fcc6c9f8-bfad-423c-8882-e2a7b2b5f243,Jonathon,Molina,ksmith@example.net,643-618-3818x965,Jonhaven,ID,72581,silver,10590,2022-02-08,True,social,,False,A001,2026-03-25T15:37:26.128718Z
+CUST-97c068fa-54c5-460a-b7f1-cc76b4f4fe31,Katrina,Salas,aaron07@example.net,642.726.6258,New Elizabeth,DE,33870,bronze,10858,2024-12-18,True,referral,,True,D003,2026-03-26T04:48:13.203156Z
+CUST-91aed6ad-1e69-4e24-8807-f4aeffea6125,Miguel,Ayala,jessica07@example.com,264.377.8570,Lake Jason,OH,94696,bronze,11534,2026-01-02,True,organic,,False,A001,2026-03-31T06:26:17.918123Z
+CUST-bd19dd89-b4b3-4b94-815b-d13ead822651,Justin,Shepard,qgilbert@example.net,(261)261-2940,North Javier,MP,21963,bronze,3965,2022-11-17,True,paid_search,,True,A001,2026-03-21T15:46:57.730217Z
+CUST-de439e5d-dff1-4a48-b009-a06effb03697,Jody,Young,tonya12@example.com,990-909-2046x80204,West Andrewtown,OR,06649,bronze,8621,2024-06-09,True,social,,True,A001,2026-04-12T14:12:15.054600Z
+CUST-18fce1c1-c4b5-4694-ad6d-c7ed42d25c89,Emily,Lewis,christophercarson@example.net,+1-881-203-7680x6807,Manningport,DE,52912,gold,3481,2023-11-24,True,email_campaign,,True,A001,2026-04-10T21:24:29.002043Z
+CUST-c7358297-c857-4e8b-b96c-f4e11524b2c0,Emily,Kim,hannah37@example.com,+1-773-761-5488,Jennifermouth,ME,88858,silver,11021,2024-09-07,True,paid_search,,False,D003,2026-02-20T20:26:11.640634Z
+CUST-10589ac5-e8b8-441e-b8b0-2f0df997e803,Patrick,Casey,jonesjoshua@example.org,001-882-776-2233x77514,Lyonsfort,OH,28649,bronze,1799,2025-09-18,True,email_campaign,,False,A001,2026-04-18T15:12:24.016432Z
+CUST-e5e09a9d-a193-45f8-b703-a7677837dda2,Martin,Everett,iwalsh@example.com,5779488396,Port Georgeland,GA,71187,silver,391,2022-06-20,True,paid_search,REF-3010,True,S002,2026-04-09T15:40:25.323437Z
+CUST-a1a79822-9e1b-43f0-a2e1-4f16b2f77d53,Gina,Simmons,kruegermeghan@example.com,(845)912-8423x506,Whitemouth,CA,96815,silver,11866,2025-12-09,True,paid_search,REF-3158,True,A001,2026-04-04T00:23:09.631552Z
+CUST-15bcd7d3-6733-4ced-93e1-3a6924e861a0,Daniel,Edwards,bcruz@example.com,001-601-339-6160,Josephhaven,IL,79713,bronze,5700,2021-05-27,True,email_campaign,REF-7880,True,A001,2026-02-10T07:04:04.148439Z
+CUST-e5f2c201-31c8-48c4-8527-115b24c3792b,Michael,Barnes,espinozadonald@example.org,680.410.2749x3851,Rebeccabury,NV,98660,silver,5102,2021-10-16,True,paid_search,,False,A001,2026-02-17T03:31:01.756613Z
+CUST-5c297d71-3b2b-4d91-a99f-2f8b1cae591b,Tina,Reed,monroeerin@example.com,9678271464,Mitchellberg,GU,39980,platinum,6271,2022-08-05,True,organic,,True,A001,2026-04-24T20:14:08.592192Z
+CUST-2a274c70-cc79-4fcc-9b04-c59ad858aa9b,Dana,Taylor,marshalltyler@example.com,774-449-1269x6658,Maciasport,AZ,18619,silver,4158,2025-03-04,True,organic,,True,S002,2026-03-30T10:31:53.708672Z
+CUST-cabb0ed1-add6-4e12-b28c-e8b20e8a9176,Edward,Warren,christine74@example.com,(776)560-1925x42348,East Nataliehaven,FL,01252,bronze,7955,2025-06-03,True,referral,,True,A001,2026-03-07T07:13:03.206828Z
+CUST-6ca6d6e6-9f33-446b-8f1e-7fd4f9570fd1,Martin,Thompson,gcollins@example.com,2702208247,Karenmouth,PR,08623,bronze,6616,2022-11-26,True,referral,,True,A001,2026-02-08T17:20:59.209371Z
+CUST-90f7dbf8-72e1-4792-babf-94e947980771,Ryan,Davis,theodore19@example.net,565-387-2029x72371,Robintown,GU,79485,gold,5868,2025-07-25,True,organic,,False,A001,2026-02-21T23:38:19.078211Z
+CUST-8003403e-ebf6-4353-b5f8-98a272e876d4,Mark,Frazier,sarapoole@example.org,594.567.7453x9538,New Jon,AR,65767,platinum,9687,2024-05-15,True,social,REF-6194,True,A001,2026-04-27T03:04:45.532869Z
+CUST-ce2698bd-cf73-4b48-8321-82dca5ccf3f7,Dana,Aguilar,john81@example.net,603-533-9313x309,Micheleton,MA,82322,bronze,4454,2025-06-23,True,organic,,True,S002,2026-04-11T20:34:53.363230Z
+CUST-48190d67-1c95-4a96-a4e1-42d52a26ad29,John,Robinson,robertmckay@example.org,(438)947-9643,New Carlosstad,LA,68448,bronze,3653,2025-10-20,True,social,,True,S002,2026-03-04T19:34:45.861367Z
+CUST-d503780a-68bd-475f-bfe8-f8300e2ad153,Brian,Williams,jason59@example.com,(965)822-4764x826,Maryport,NY,92382,silver,9487,2022-04-28,True,social,,True,D003,2026-04-24T08:07:15.714332Z
+CUST-48d19b0e-e5bf-4666-bc31-eb12d9c4a487,Brianna,Mitchell,wclark@example.com,(863)683-3352x4003,Williamsmouth,IL,26649,bronze,3841,2022-04-21,True,referral,REF-9454,False,D003,2026-02-16T21:37:49.730846Z

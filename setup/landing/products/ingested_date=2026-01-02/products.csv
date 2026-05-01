@@ -1,0 +1,121 @@
+product_id,product_name,category,unit_price,weight_kg,stock_quantity,is_active,created_date,sku,cost_price,supplier_code,warehouse_bin,reorder_threshold
+PROD-a78a30d2-97aa-47c9-a571-11d18bae20be,Customer-Focused Didactic Synergy,Clothing,20.92,18.722,193,False,2025-04-06,SKU-GFB-0667,7.78,SUP-3536,BIN-FG-20,31
+PROD-63c1dca2-edc2-41e6-b8bb-c946e35ebd61,Multi-Lateral Encompassing Pricing Structure,Automotive,175.89,3.218,157,True,2024-08-19,SKU-PLB-8386,101.13,SUP-3470,BIN-XI-13,19
+PROD-4a72296b-d84c-4fdd-aa00-62f3e8342c57,Operative Dynamic Info-Mediaries,Automotive,28.33,7.771,443,True,2026-01-04,SKU-CEP-4995,9.94,SUP-9815,BIN-WP-17,43
+PROD-8f206d3b-8eb5-4b22-b3f5-66210b744b04,Quality-Focused Systematic Instruction Set,Books,24.62,11.092,166,True,2024-11-01,SKU-UCZ-7077,14.83,SUP-2409,BIN-UF-64,50
+PROD-eb63d763-f5c2-4d89-9381-36111251146b,Organic Intangible Forecast,Books,15.96,12.425,363,True,2026-01-29,SKU-GWA-2396,8.53,SUP-6361,BIN-ZM-39,6
+PROD-4b52ec6c-1b6e-4ab4-94c0-5f8afaf2a55b,Assimilated Modular Open System,Electronics,61.23,8.947,28,True,2025-03-16,SKU-PGE-9343,35.31,SUP-7821,BIN-BP-45,46
+PROD-4b918ce6-2a78-4f7f-9dfe-b4898af7cf15,Persistent Hybrid Task-Force,Home & Garden,284.09,10.008,370,True,2023-11-10,SKU-THG-2736,154.08,SUP-8512,BIN-YG-25,15
+PROD-15fbe246-8ed9-4468-a367-0f53ff32578e,Proactive Maximized Leverage,Clothing,48.78,14.501,432,True,2025-02-26,SKU-LAU-7397,26.58,SUP-5034,BIN-IO-72,14
+PROD-26fc2cee-1523-47ed-bd60-39680b4bcd27,Total Dynamic Support,Sports,40.42,24.007,173,False,2023-09-23,SKU-DDZ-8352,19.47,SUP-0888,BIN-YR-28,50
+PROD-6249c06d-da62-4117-be8f-e5356d1f6e79,Intuitive Composite Core,Toys,84.59,1.911,311,True,2024-12-29,SKU-QVY-8162,32.23,SUP-3108,BIN-OH-12,39
+PROD-c03824a9-9f88-4572-814b-d33668615999,Switchable Zero Tolerance Portal,Clothing,117.38,10.056,104,True,2025-01-15,SKU-ERO-7520,60.36,SUP-3848,BIN-LZ-44,27
+PROD-0bb9f73b-f550-4829-9af4-3a0c1324dfe3,Horizontal Reciprocal Instruction Set,Automotive,156.02,8.157,357,True,2025-05-18,SKU-UXT-2504,56.58,SUP-7110,BIN-HV-90,36
+PROD-0511e0ab-ada5-4390-8de7-c7c3f62fb205,Visionary Contextually-Based Monitoring,Electronics,629.01,2.146,387,False,2025-01-19,SKU-JAP-0980,303.9,SUP-4030,BIN-WD-73,33
+PROD-5fce63ab-a9fa-4aad-bef9-f705739d439d,Function-Based Responsive Internet Solution,Home & Garden,354.42,2.551,156,True,2024-06-09,SKU-JDC-9210,204.9,SUP-9815,BIN-NK-60,35
+PROD-9eb34569-f199-4984-9a1d-b324b5728592,Enhanced Discrete Project,Beauty,53.7,13.421,11,True,2024-08-24,SKU-LTE-0848,24.7,SUP-1834,BIN-NA-73,12
+PROD-57ed499f-234c-48ba-a2a5-f11a8914a584,Programmable Holistic Interface,Automotive,148.21,2.489,58,False,2024-10-17,SKU-FGA-4441,79.03,SUP-2751,BIN-DF-96,9
+PROD-467432df-b6e9-4979-8a86-f1a6aa4d94dd,Synchronized Client-Server Encryption,Beauty,45.12,8.9,365,True,2024-10-30,SKU-LRN-7277,21.25,SUP-8765,BIN-DR-41,22
+PROD-59b14cb0-4c16-4abb-a3e9-7e5ff8a24cee,Advanced Stable Implementation,Beauty,7.37,17.237,371,True,2025-02-14,SKU-YRN-9017,4.77,SUP-8581,BIN-QW-47,21
+PROD-6d58edb8-14f6-4264-bbc7-3d6d9b38214e,De-Engineered Modular Model,Books,31.46,3.871,29,True,2023-09-23,SKU-BSQ-3213,13.89,SUP-6046,BIN-WD-66,5
+PROD-7cb1fb55-6e91-4a3a-a309-b0a86bf2a613,Self-Enabling Demand-Driven Functionalities,Electronics,700.56,19.954,77,False,2023-07-25,SKU-EQJ-1870,297.87,SUP-2326,BIN-UV-52,21
+PROD-2fdcc838-3b2f-441e-b8c5-f37bb73f73f8,Cloned Non-Volatile Challenge,Beauty,68.85,20.867,231,True,2024-10-05,SKU-PWR-8356,39.17,SUP-7479,BIN-LN-85,43
+PROD-5ccdb50d-cbef-4494-9008-98a273ce5686,Operative Eco-Centric Orchestration,Home & Garden,304.69,24.588,264,True,2023-11-16,SKU-TNA-3964,180.41,SUP-3054,BIN-UJ-44,11
+PROD-030bfaa8-16c4-43c8-9fad-d56a287ccdf0,Extended Incremental Alliance,Electronics,94.67,9.032,293,True,2023-12-31,SKU-GVT-2586,41.48,SUP-8290,BIN-UP-84,10
+PROD-3bb00df2-9dc5-4a0a-adba-ceeab70d9eb4,Team-Oriented Composite Hub,Clothing,132.5,7.175,28,True,2024-06-03,SKU-IXW-3535,64.4,SUP-8925,BIN-NY-62,10
+PROD-f00d29a3-e708-4a1c-885b-993b7ff37cd8,Business-Focused Maximized Info-Mediaries,Beauty,70.72,20.219,165,True,2025-01-10,SKU-UNC-0823,33.53,SUP-3215,BIN-XN-63,39
+PROD-e84bc4b6-074e-44fe-8c92-07768b85646b,Team-Oriented Bi-Directional Task-Force,Books,39.33,1.155,426,True,2025-07-21,SKU-IZG-2382,22.15,SUP-9310,BIN-IO-56,27
+PROD-1485573d-9090-4315-a0fb-be567d1a124b,Stand-Alone Multi-Tasking Initiative,Home & Garden,57.61,6.695,171,True,2024-03-15,SKU-WQD-3276,29.81,SUP-8708,BIN-LS-51,40
+PROD-7825decf-b6e3-45c2-bc85-0284e88819fe,Customer-Focused Stable Infrastructure,Toys,59.83,23.71,329,True,2023-09-05,SKU-LYW-8262,29.82,SUP-5891,BIN-XZ-53,40
+PROD-2b802833-a500-4c20-b955-1e15bc143add,Managed System-Worthy Functionalities,Beauty,61.17,14.723,177,True,2024-10-16,SKU-ERL-2531,25.74,SUP-1652,BIN-MV-98,44
+PROD-72e763f4-806f-4401-a0f8-d9685ab68ea3,Upgradable User-Facing Open Architecture,Books,48.08,10.006,444,True,2025-11-12,SKU-XZH-6583,17.65,SUP-5153,BIN-RE-07,8
+PROD-0b653213-099e-4a2b-a716-df6c262f8c0a,Advanced Web-Enabled Benchmark,Sports,284.66,21.406,16,True,2023-05-01,SKU-DFC-3533,107.34,SUP-6665,BIN-TO-55,46
+PROD-6636dde4-ec2c-4d50-b8ab-fd30b3bf1f4f,Mandatory Incremental Budgetary Management,Home & Garden,78.83,20.14,337,True,2024-03-30,SKU-XRS-7248,42.16,SUP-8232,BIN-XD-41,46
+PROD-22bb9909-8abb-4af6-aff5-8a5997dbb14c,Multi-Lateral User-Facing Moratorium,Toys,82.31,5.803,483,True,2024-10-17,SKU-IVW-4481,42.82,SUP-2934,BIN-FY-89,49
+PROD-2375c31a-bbe2-4949-b4dc-dc789d21ef46,Business-Focused Dynamic Encoding,Clothing,52.36,21.013,352,True,2025-02-13,SKU-HIE-9203,27.04,SUP-9300,BIN-YI-53,11
+PROD-a86ec09e-cf60-4ebf-8955-1ce89d1e387e,Triple-Buffered Static Database,Sports,120.79,3.493,68,True,2025-06-12,SKU-XHJ-7435,42.29,SUP-1869,BIN-UH-35,25
+PROD-a321f041-ed9d-4f46-a432-bcb94d362954,Optional Reciprocal Capacity,Automotive,200.55,6.224,289,True,2024-06-15,SKU-XSB-5315,75.14,SUP-9868,BIN-HI-93,21
+PROD-0e59957b-a8d1-49e7-bb10-d25df5ce4d21,Optimized Mission-Critical Initiative,Home & Garden,93.41,16.657,498,True,2025-09-14,SKU-EYC-8489,59.81,SUP-4406,BIN-DR-16,25
+PROD-76dc90e1-c881-42e5-b3eb-52c6f1835fdb,Virtual Context-Sensitive Emulation,Beauty,63.11,9.009,270,False,2025-05-28,SKU-IRO-3256,37.86,SUP-2163,BIN-RY-74,33
+PROD-d42c4ef6-cb69-4bd1-8ab5-31060731a597,Integrated Tangible Solution,Automotive,156.52,17.424,36,True,2026-02-03,SKU-JNZ-5473,61.89,SUP-1597,BIN-TN-18,20
+PROD-8b4eeb65-7947-4a71-a173-b64c3d986241,Enterprise-Wide Even-Keeled Access,Toys,12.89,16.973,83,True,2023-05-10,SKU-DLL-8537,5.61,SUP-7188,BIN-YH-02,29
+PROD-01789e2f-5768-432c-88bc-81f4813641a8,User-Centric User-Facing Info-Mediaries,Home & Garden,313.91,12.767,380,False,2025-06-07,SKU-GTU-1647,157.96,SUP-5862,BIN-VU-16,41
+PROD-b70414e4-b201-455f-81a8-6e8f8a467f4b,Switchable Fault-Tolerant Synergy,Books,6.87,12.004,7,True,2024-09-11,SKU-KEL-5434,3.31,SUP-0875,BIN-UL-29,25
+PROD-6344704a-fe0f-4156-9459-4de87776149b,Adaptive Full-Range Success,Toys,24.15,20.645,80,True,2024-11-12,SKU-IIJ-5845,14.59,SUP-0246,BIN-QY-93,36
+PROD-073c37b5-e004-43b1-8081-f70317fd2217,Centralized Dynamic Function,Toys,56.65,0.236,222,False,2024-03-24,SKU-GTJ-2765,21.24,SUP-9402,BIN-OE-12,40
+PROD-71b36521-c290-44e1-8f9f-e43f460bf985,Triple-Buffered Encompassing Access,Sports,156.02,8.462,394,True,2025-03-18,SKU-HYN-1723,72.76,SUP-5278,BIN-QV-67,29
+PROD-4346f00d-553a-41a6-a3d6-0ed0cbe64efe,Proactive Exuding Algorithm,Toys,9.3,10.919,318,True,2025-08-08,SKU-KYK-1701,4.68,SUP-8092,BIN-WN-84,33
+PROD-e1d82fb3-196a-4b41-8d92-be8d94a49e5e,Multi-Channeled Heuristic Strategy,Clothing,129.52,0.522,242,True,2025-08-13,SKU-MGE-2684,55.95,SUP-7392,BIN-WV-93,5
+PROD-a2a8fce5-0e75-43b1-a7e2-84bc16624131,Stand-Alone Mission-Critical Core,Automotive,156.71,21.422,342,True,2025-06-01,SKU-DPT-2573,74.68,SUP-3754,BIN-HV-83,12
+PROD-4a149dfb-4bad-4040-a8d4-9409fe2322a3,Enterprise-Wide Mission-Critical Superstructure,Books,28.99,15.963,406,True,2025-10-19,SKU-YLK-2461,10.52,SUP-8087,BIN-VV-08,24
+PROD-ec6c977c-94cf-4d16-b960-7b5f95980551,Fully-Configurable Full-Range Methodology,Toys,37.96,19.936,466,True,2024-09-19,SKU-ULB-4420,13.63,SUP-4923,BIN-ZB-36,47
+PROD-2470ba6c-3c37-4103-b6f0-0c01699ac0a5,Function-Based Fault-Tolerant Approach,Home & Garden,284.21,0.761,146,True,2023-11-06,SKU-EQL-5228,129.05,SUP-2895,BIN-LE-68,29
+PROD-dc2d8f41-9e73-4aaf-9a9b-63e6afb170a7,Multi-Channeled Background Process Improvement,Automotive,174.4,8.103,328,True,2025-04-10,SKU-CVV-7180,111.5,SUP-0712,BIN-HU-28,25
+PROD-79ca31d5-93d2-4e67-a91a-a102a3fb596d,Organic Coherent Artificial Intelligence,Electronics,625.11,23.898,373,True,2023-05-20,SKU-IFB-3473,390.83,SUP-8467,BIN-MW-72,22
+PROD-bb33a8e8-fe44-4333-a349-789e3338a1e7,Pre-Emptive Upward-Trending Graphical User Interface,Beauty,61.88,23.939,360,True,2025-12-31,SKU-XCF-6164,26.1,SUP-3986,BIN-LV-21,25
+PROD-ef65e64d-721b-4f9d-9edb-8cf038998a8e,Programmable Responsive Projection,Clothing,31.51,9.032,344,True,2023-07-10,SKU-UFO-5416,19.72,SUP-9885,BIN-XW-74,12
+PROD-e8028fbb-57c8-4ddb-a85b-0d24da1d0263,Streamlined Modular Task-Force,Toys,87.87,9.737,450,True,2025-03-10,SKU-SGB-4364,56.2,SUP-0096,BIN-CA-05,11
+PROD-e302a69a-77e1-4f0f-b03a-942d59a8b072,User-Friendly Neutral Function,Automotive,110.42,1.028,256,True,2025-08-31,SKU-AKN-2187,48.03,SUP-9575,BIN-JV-96,35
+PROD-789e60d0-565d-45a1-bda3-9dac057df641,Ergonomic Systematic Projection,Sports,198.51,1.79,258,False,2024-11-03,SKU-DPC-4965,112.44,SUP-8713,BIN-RV-04,23
+PROD-0143be30-9c82-4385-8546-8786eaf6d959,Streamlined Mission-Critical Encoding,Books,9.6,18.652,166,True,2024-03-14,SKU-OYX-4861,3.57,SUP-3380,BIN-YR-96,50
+PROD-ff58164a-6a1b-4360-b66f-8cca78c11dab,Multi-Channeled Bandwidth-Monitored Open System,Clothing,44.63,22.099,425,True,2026-02-20,SKU-QYZ-4218,25.35,SUP-7963,BIN-OT-83,30
+PROD-c2ac1801-927b-41ae-9809-f137e7e749b7,Balanced Modular Application,Electronics,896.44,10.402,349,True,2025-11-11,SKU-PXQ-5567,390.0,SUP-6241,BIN-EJ-46,46
+PROD-8f725df5-2e7e-4623-a91d-799dcb54d1dd,Multi-Tiered Analyzing System Engine,Automotive,232.86,12.323,307,True,2024-02-03,SKU-KDY-3758,117.12,SUP-4045,BIN-IY-09,40
+PROD-cda56ab4-01c3-4953-a20b-25586827639b,Synergistic Web-Enabled Approach,Home & Garden,147.99,15.559,411,True,2024-12-11,SKU-PUO-9530,77.47,SUP-2302,BIN-PP-24,29
+PROD-60ee4ed5-bd9e-4e30-8e5e-36a646b62d6f,Switchable Systematic Knowledgebase,Sports,92.83,8.941,422,False,2025-11-24,SKU-WXT-1754,38.13,SUP-6827,BIN-EA-66,10
+PROD-ee52d235-f453-485f-bfa6-a776be9b563e,Reverse-Engineered Multi-Tasking Data-Warehouse,Beauty,14.46,2.736,404,True,2023-08-12,SKU-YWG-3871,7.62,SUP-8298,BIN-TJ-01,41
+PROD-cf81e8ed-96d5-45d7-ad77-0c18ce14b92b,Reduced Interactive Hub,Books,20.12,21.469,342,True,2023-10-17,SKU-SRA-9910,9.38,SUP-6627,BIN-FT-51,13
+PROD-a21d8d97-1854-4ea5-bd09-89cc07e5b9c4,Synergized Context-Sensitive Frame,Home & Garden,397.97,12.688,120,False,2024-10-04,SKU-HDU-0739,258.52,SUP-1683,BIN-LJ-74,36
+PROD-d1729e5b-8cba-4fb8-b633-3e2b129adca8,Exclusive Local Approach,Sports,59.55,7.739,313,True,2023-08-29,SKU-HPX-2165,31.15,SUP-0016,BIN-AZ-04,43
+PROD-fa51cffd-d513-4288-ba57-726ab59e3df5,Grass-Roots Multi-State Projection,Automotive,194.16,16.101,153,True,2025-10-27,SKU-LIN-9852,101.61,SUP-2728,BIN-NB-41,6
+PROD-cafc73f4-e2cc-4255-8064-8786e90e452c,Ergonomic Leadingedge Encryption,Toys,25.12,4.669,425,True,2026-02-15,SKU-MFU-7741,11.6,SUP-9471,BIN-FR-74,41
+PROD-760db774-0d03-4e3d-92a8-4a758d22c7f1,Right-Sized Clear-Thinking Array,Books,16.88,16.953,155,True,2025-11-27,SKU-IFU-4789,6.57,SUP-1990,BIN-IC-78,45
+PROD-cf68761a-1e1d-42b1-9b4a-9b7b286d0856,Automated Bifurcated Strategy,Books,21.37,4.002,99,True,2023-05-30,SKU-TAG-8857,12.93,SUP-7832,BIN-VJ-85,18
+PROD-c4649e3b-4b2f-4806-8f5e-6ff64667343c,Ameliorated Multi-Tasking Standardization,Sports,65.77,20.197,285,True,2025-03-30,SKU-LTI-5799,31.9,SUP-9273,BIN-NK-15,41
+PROD-0a41f4fa-5225-44a4-89a1-dbfb84097c6e,Virtual Intermediate Attitude,Clothing,101.27,5.568,188,True,2026-01-08,SKU-IOZ-5991,63.79,SUP-4770,BIN-KG-80,42
+PROD-5d5895ec-46fb-4235-a9aa-d3f3e753be79,Down-Sized Bifurcated Task-Force,Sports,269.62,18.392,228,False,2024-06-07,SKU-POH-6113,99.74,SUP-4841,BIN-NU-55,25
+PROD-70911383-b3e0-442c-b328-fcaee2294f93,Reduced Foreground Moratorium,Sports,196.93,4.026,389,True,2025-11-24,SKU-ESN-8938,123.52,SUP-5950,BIN-ZH-82,9
+PROD-b79c4ef3-a9f2-4ce7-96e8-6bb2349e4895,Ergonomic Systemic Architecture,Books,28.35,0.649,373,True,2025-01-24,SKU-VPE-9376,16.98,SUP-7707,BIN-MN-58,18
+PROD-dd57aaf1-f6d7-4612-8a79-641e27ef1a58,Configurable Context-Sensitive Frame,Toys,89.36,6.433,143,True,2023-05-01,SKU-CIL-1371,51.87,SUP-9888,BIN-JV-16,37
+PROD-e2257c2e-6a48-4024-8a08-2f480fc3afd0,Business-Focused Hybrid Installation,Automotive,83.14,7.479,62,False,2024-12-11,SKU-LNF-1129,29.11,SUP-7191,BIN-CD-43,32
+PROD-bc0b3fa0-0a15-435e-880c-25fb684ae2d8,Expanded Optimizing Groupware,Clothing,54.69,19.2,271,True,2024-12-16,SKU-XMH-3589,31.36,SUP-8348,BIN-EP-02,21
+PROD-b06ae5df-eef8-42fc-8eec-7d83fe6da659,Progressive Stable Budgetary Management,Clothing,62.89,4.085,459,False,2024-09-28,SKU-PWY-6627,28.2,SUP-7747,BIN-PT-73,21
+PROD-f8557d31-2bd2-450f-84ff-1e347d72334c,Stand-Alone Stable Graphic Interface,Books,11.04,17.683,151,False,2023-09-08,SKU-LBL-1426,4.29,SUP-9206,BIN-SM-56,18
+PROD-94783cc0-73e8-4067-831d-57c4e0d5631b,Realigned Value-Added Workforce,Home & Garden,324.68,24.365,356,True,2024-03-02,SKU-LDJ-8716,187.47,SUP-0783,BIN-WH-20,48
+PROD-83ca16db-acb3-4c24-b9cd-b5c8d6f6721d,Advanced Intangible Budgetary Management,Electronics,653.21,19.417,143,True,2025-07-01,SKU-LCB-3308,420.76,SUP-6222,BIN-KK-64,36
+PROD-a24a9a1e-2383-464a-ae45-55dfffb91ab1,Cross-Group Executive Focus Group,Beauty,17.83,12.0,94,True,2026-01-19,SKU-HPA-3785,9.17,SUP-5968,BIN-YA-80,14
+PROD-3faadd35-f360-48c4-96e6-d75d3ea98afc,Extended 24Hour Concept,Sports,168.77,18.964,53,True,2025-06-27,SKU-QSI-8139,102.13,SUP-8014,BIN-JK-55,18
+PROD-5d58e17d-f4a1-4ff0-b694-1d0f6b0605af,Automated Reciprocal Portal,Sports,53.39,21.442,306,True,2024-07-05,SKU-DNV-9472,30.38,SUP-3633,BIN-XI-00,24
+PROD-329c729c-b53f-4f0b-a18b-38a7ad96331a,Optimized Coherent Matrices,Beauty,65.3,20.522,356,True,2025-05-29,SKU-MUE-8371,30.26,SUP-0305,BIN-QH-51,46
+PROD-8fe12474-a0f9-427c-8a61-0dfb000e8055,Programmable Asynchronous Concept,Toys,41.7,21.686,348,True,2024-05-01,SKU-SSU-8045,20.28,SUP-3590,BIN-MQ-46,9
+PROD-9fb5edca-2bc8-481b-b0cb-53cb5b6712ba,Self-Enabling Optimal Hardware,Home & Garden,264.12,12.765,256,True,2024-04-01,SKU-JYG-3176,145.14,SUP-4309,BIN-YI-65,23
+PROD-4c62fab0-16c4-4c14-970b-e8b0b2d34870,Re-Contextualized Systemic Forecast,Sports,130.55,24.558,190,False,2024-08-12,SKU-GGX-8835,66.18,SUP-7288,BIN-KF-96,19
+PROD-31421db3-cfa1-4960-8842-c76ea71bd394,Virtual Executive Support,Toys,39.27,24.161,139,True,2025-04-27,SKU-TNZ-1572,15.15,SUP-5431,BIN-UU-24,15
+PROD-857812b3-6b9f-4976-8f6d-03299712a349,Integrated Content-Based Moderator,Home & Garden,303.91,17.956,162,True,2024-03-11,SKU-HSO-4367,140.29,SUP-9840,BIN-KL-46,15
+PROD-2e7248e8-d2ee-402f-b581-3e530625cfe6,Down-Sized Non-Volatile Service-Desk,Home & Garden,26.16,14.064,173,True,2023-06-24,SKU-EHY-1835,14.84,SUP-0717,BIN-FC-33,15
+PROD-33e22c30-f101-4ec6-895b-6fed327dc2a9,Synchronized Asymmetric Matrix,Home & Garden,352.46,17.931,341,True,2024-08-08,SKU-BTX-5864,227.67,SUP-3052,BIN-NT-75,13
+PROD-ae83d643-ae6d-4af5-97b3-01a91826ca60,Multi-Layered Next Generation Secured Line,Home & Garden,50.36,21.137,133,True,2023-09-08,SKU-MYZ-1338,27.9,SUP-0925,BIN-YK-75,41
+PROD-2a3ca695-97ef-484f-aedd-3ad97c972ada,Open-Source Explicit Standardization,Home & Garden,355.29,15.185,73,True,2023-06-09,SKU-NGQ-2213,176.73,SUP-7309,BIN-GL-92,12
+PROD-d1b02739-6dab-444e-8e1c-56f1d6dd71d7,Down-Sized Incremental Flexibility,Automotive,127.37,3.976,55,False,2025-12-02,SKU-TAD-7032,66.27,SUP-6546,BIN-EC-74,44
+PROD-64b28a9a-33d5-47f7-a920-3dc095efb280,Programmable Secondary Matrix,Automotive,242.03,21.315,364,True,2025-06-14,SKU-TQY-0527,96.91,SUP-8830,BIN-YD-64,18
+PROD-ed43b4e8-235c-44e7-8896-176eaef4212e,Seamless Client-Server Support,Home & Garden,272.76,11.106,258,True,2023-07-16,SKU-HRQ-6620,156.18,SUP-5621,BIN-GS-51,42
+PROD-f146a1eb-8b63-4ec2-a573-aacb6d2967c0,Stand-Alone Cohesive Process Improvement,Electronics,123.87,5.42,412,True,2023-05-10,SKU-WPE-3323,57.86,SUP-4099,BIN-AD-63,38
+PROD-79f990aa-bf7b-49b2-90c7-44902565df01,Sharable Dynamic Time-Frame,Automotive,99.03,22.769,194,True,2025-02-23,SKU-VDH-7431,37.06,SUP-0827,BIN-BU-40,24
+PROD-ad3b042e-e4e8-4142-b6a4-f42b0a7cd181,Multi-Channeled Maximized Standardization,Automotive,173.97,15.944,123,True,2023-08-03,SKU-AZS-8462,75.74,SUP-5856,BIN-YV-53,36
+PROD-45513938-94bb-4ddc-b524-188c47e1fce5,Managed Eco-Centric Throughput,Beauty,13.28,15.94,1,True,2024-10-17,SKU-MOY-5068,7.34,SUP-1614,BIN-PF-72,20
+PROD-8476c9d1-c4af-408d-840c-0837aee5c3a9,Multi-Lateral Incremental Utilization,Electronics,366.69,7.808,83,True,2024-11-04,SKU-NKR-7689,136.57,SUP-9737,BIN-DB-69,14
+PROD-0fb6ca37-071a-462d-81fb-9f73545d5918,Fundamental Systematic Info-Mediaries,Automotive,198.91,9.4,26,True,2026-02-19,SKU-ZYN-7240,108.25,SUP-6498,BIN-II-08,13
+PROD-afe0d10b-611d-4329-917c-64961ab14e97,Self-Enabling Zero-Defect Instruction Set,Toys,65.09,16.363,419,True,2025-01-06,SKU-JFI-0440,33.93,SUP-6129,BIN-DB-42,47
+PROD-6293f262-d471-40b7-b20e-18c324826373,Integrated Client-Driven Framework,Electronics,572.85,10.272,133,True,2024-12-06,SKU-ZST-8604,274.8,SUP-5132,BIN-VS-96,5
+PROD-114f3c18-5421-4a3f-a32c-d308f6e4cad9,Centralized Eco-Centric Graphical User Interface,Toys,65.65,21.837,479,True,2023-12-27,SKU-CLI-3144,33.3,SUP-9691,BIN-MA-46,42
+PROD-0c18e11f-6882-4622-9033-3b2550bd59ef,Assimilated Human-Resource Firmware,Electronics,760.09,20.325,114,False,2025-08-06,SKU-CGO-1056,492.8,SUP-0640,BIN-UF-22,5
+PROD-9399d2a0-dad8-49f8-ad4c-7912553d3b9d,Multi-Layered Demand-Driven Project,Clothing,48.85,20.097,460,True,2024-08-10,SKU-WMN-0060,24.3,SUP-7899,BIN-XQ-07,48
+PROD-ddb4bfa5-0b8c-4ea7-92be-65caff76833f,Right-Sized Non-Volatile Encryption,Automotive,81.42,4.675,456,True,2025-09-27,SKU-HXJ-6523,52.9,SUP-2215,BIN-CD-90,45
+PROD-6a454f65-a1c3-4034-aa74-c7df1ec1d6be,Ameliorated Secondary Concept,Home & Garden,97.13,15.613,463,True,2024-06-29,SKU-RQT-9246,48.55,SUP-3275,BIN-PP-18,10
+PROD-c8e80ea0-b160-4d8c-9ef4-4175b35b5164,Synergized Intangible System Engine,Home & Garden,266.19,24.009,409,True,2023-06-16,SKU-HUH-1932,172.35,SUP-7692,BIN-XV-45,50
+PROD-f91337ef-50a9-46da-94e9-d68b5141eb7d,Mandatory Cohesive Data-Warehouse,Automotive,67.07,4.702,126,True,2025-08-03,SKU-WYS-1076,37.65,SUP-1793,BIN-SZ-59,9
+PROD-148603d8-692f-4a3b-a787-9a0dd5b089bd,Inverse Heuristic Paradigm,Toys,87.58,10.046,326,False,2024-02-16,SKU-CWG-9100,48.28,SUP-1866,BIN-WC-64,24
+PROD-47bad1c5-138a-45c6-b162-57c43eb6de79,Ameliorated Motivating Parallelism,Beauty,48.28,17.701,241,False,2024-07-24,SKU-BUU-0520,28.01,SUP-0484,BIN-WF-20,38
+PROD-70275e79-36d9-4aa5-9613-7440ea2a7728,Multi-Lateral Real-Time Time-Frame,Electronics,851.42,6.842,14,True,2024-05-13,SKU-OIF-9030,538.41,SUP-1222,BIN-ZD-78,30
+PROD-906e8b5c-f71c-4488-9c02-72b1ab957715,Organic Bi-Directional Capability,Home & Garden,298.51,17.035,193,True,2026-01-09,SKU-ZPF-1869,107.72,SUP-0423,BIN-YY-15,31
+PROD-ec4c2c7a-9e03-4864-95f4-82ed02c06c2e,Optimized Interactive Local Area Network,Clothing,128.94,9.76,58,True,2023-08-22,SKU-OOP-0912,60.59,SUP-2431,BIN-JG-41,29
