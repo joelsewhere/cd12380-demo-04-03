@@ -3,7 +3,7 @@ WITH item_sums AS (
         order_id,
         SUM(line_total) AS computed_total
     FROM raw.order_items
-    WHERE ingested_date = '{{ ingested_date }}'
+    WHERE ingested_date = '{{ ti.xcom_pull(task_ids="metadata")["ingested_date"] }}'
     GROUP BY order_id
 )
 SELECT orders.order_id
