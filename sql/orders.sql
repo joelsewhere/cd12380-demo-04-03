@@ -31,4 +31,4 @@ INNER JOIN item_sums
 WHERE orders.ingested_date = '{{ ti.xcom_pull(task_ids="metadata")["ingested_date"] }}'
 AND orders.declared_total >= 0 -- drop negative order totals
 -- drop mismatching order totals
-AND ABS(order.declared_total - item_sums.computed_total) / NULLIF(item_sums.computed_total, 0) <= 0.30
+AND ABS(orders.declared_total - item_sums.computed_total) / NULLIF(item_sums.computed_total, 0) <= 0.30
