@@ -25,29 +25,25 @@ TABLES = [
         "table": "customers",
         "partition_keys": [],
         "upsert_keys": ["customer_id"],
-        "evolve_schema": False,
     },
     {
         "table": "products",
         "partition_keys": [],
         "upsert_keys": ["product_id"],
-        "evolve_schema": False,
     },
     {
         "table": "orders",
         "partition_keys": ["order_date"],
         "upsert_keys": ["order_id"],
-        "evolve_schema": True,
     },
     {
         "table": "order_items",
         "partition_keys": ["order_date"],
         "upsert_keys": ["item_id"],
-        "evolve_schema": False,
     },
 ]
 
-RAW_INGESTION_COMPLETE = Asset(f"s3://{S3_BUCKET}/iceberg-warehouse/transactions/")
+RAW_INGESTION_COMPLETE = Asset(f"s3://{S3_BUCKET}/iceberg-warehouse/raw/")
 
 SQL_DIR = Path(__file__).parent / 'sql'
 
