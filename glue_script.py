@@ -15,7 +15,6 @@ sql_s3_path = config['sql']
 evolve_schema = config.get('evolve_schema', False)
 upsert_keys = config['upsert_keys']
 partition_keys = config.get('partition_keys', [])
-ignore_columns = config.get('ignore_columns', [])
 
 sc = SparkContext()
 
@@ -31,9 +30,7 @@ bucket, key = sql_s3_path.replace("s3://", "").split("/", 1)
 sql_query = s3.get_object(Bucket=bucket, Key=key)['Body'].read().decode('utf-8')
 
 # 3. Create Staging & Filter
-raw_df = spark.sql(sql_query)
-# Filter ignored columns
-stg_df = raw_df.select([c for c in raw_df.columns if c not in ignore_columns])
+stg_df = spark.sql(sql_query)
 
 # Drop duplicates on upsert keys
 stg_df = stg_df.dropDuplicates(upsert_keys)

@@ -1,5 +1,5 @@
 import pendulum
-from airflow.sdk import DAG, Asset, task
+from airflow.sdk import DAG, Asset, task, Param
 from airflow.providers.amazon.aws.hooks.s3 import S3Hook
 from airflow.providers.amazon.aws.hooks.glue_crawler import GlueCrawlerHook
 
@@ -12,38 +12,38 @@ GLUE_ROLE_NAME = "dev-lakehouse-glue-role"
 AWS_CONN_ID    = "aws_default"
 REGION         = "us-east-1"
 
-RAW_INGESTION_COMPLETE = Asset("s3://l4-lakehouse-dev-753900908173/iceberg-warehouse/raw/")
+RAW_INGESTION_COMPLETE = Asset("raw_ingestion_complete")
 
 with DAG(
     dag_id="glue_crawler",
     max_active_runs=1,
-    schedule="@daily",
-    start_date=pendulum.datetime(2026, 1, 1, tz="UTC"),
-    end_date=pendulum.datetime(2026, 1, 2, tz="UTC"),
-    catchup=True,
+    max_active_tasks=1,
+    params={
+        'Interval': Param('2026-01-01', type=['string'], enum=['2026-01-01', '2026-01-02'])
+    }
 ) as dag:
 
     @task
-    def capture_landing_keys(ds) -> list[str]:
+    def capture_landing_keys(s3_bucket, params):
         
         s3 = S3Hook(aws_conn_id=AWS_CONN_ID)
         
         found_prefixes = set()
 
         prefixes = s3.list_prefixes(
-            bucket_name=S3_BUCKET,
+            bucket_name=s3_bucket,
             prefix=LANDING_PREFIX,
             delimiter='/'
             )
 
         for prefix in prefixes:
             # Assuming structure: landing/table_name/ingested_date=YYYY-MM-DD/file
-            ingestion_prefix = f"{prefix}ingested_date={ds}/"
+            ingestion_prefix = f"{prefix}ingested_date={params['Interval']}/"
             print(ingestion_prefix)
-            for key in s3.list_keys(bucket_name=S3_BUCKET, prefix=ingestion_prefix):
+            for key in s3.list_keys(bucket_name=s3_bucket, prefix=ingestion_prefix):
                 parts = key.split('/')
                 # Point the crawler landing/table_name/
-                schema_table_path = f"s3://{S3_BUCKET}/{parts[0]}/{parts[1]}/"
+                schema_table_path = f"s3://{s3_bucket}/{parts[0]}/{parts[1]}/"
                 found_prefixes.add(schema_table_path)
             
         return list(found_prefixes)
@@ -96,11 +96,11 @@ with DAG(
         # Logic to extract table names from prefixes for the downstream asset
         tables = [p.rstrip('/').split('/')[-1] for p in prefixes]
         context['outlet_events'][RAW_INGESTION_COMPLETE].extra = {
-            "ingested_date": context["ds"],
+            "ingested_date": context["params"]["Interval"],
             "tables": tables,
         }
 
-    prefixes = capture_landing_keys()
+    prefixes = capture_landing_keys(S3_BUCKET)
     upsert = upsert_crawler(prefixes)
     run = run_crawler()
     
